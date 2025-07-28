@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jackDeVry",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-07-28T19:05:18.570Z",
-    "updated_at": "2025-07-28T19:05:18.570Z"
-  }
+    "updated_at": "2025-07-28T19:05:18.570Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "40676e36-ae0b-4285-a350-c29a3f201c78": {
+      "content": [],
+      "created_at": "2025-07-28T19:05:18.607Z",
+      "created_by": "jackDeVry",
+      "title": "Cuba en Pantalla",
+      "updated_at": "2025-07-28T19:05:18.607Z",
+      "updated_by": "jackDeVry",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "40676e36-ae0b-4285-a350-c29a3f201c78"
+  ]
 }
