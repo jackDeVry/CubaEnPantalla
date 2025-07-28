@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "efeb9831-7e92-4cc3-9bb0-535c1bd37560": {
+      "label": "Nosotros la música (66 min) de Rogelio Paris",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=Xb5OErLnn2o&ab_channel=CHRONOLOGICALHISTORY",
+      "duration": 3985
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Nosotros la música de Rogelio Paris (1964)",
+  "created_at": "2025-07-28T19:14:47.261Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-28T19:14:47.261Z",
+  "updated_by": "jackDeVry"
+}

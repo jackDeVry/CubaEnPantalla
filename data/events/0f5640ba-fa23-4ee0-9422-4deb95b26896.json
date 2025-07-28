@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "877c854b-f2da-4a84-8c4f-1c506c812668": {
+      "label": "Suite Habana de Fernando Pérez (2003)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=QH6O-EFAljw&t=1s&ab_channel=lucas140267necio",
+      "duration": 5334
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Suite Habana de Fernando Pérez (2003)",
+  "created_at": "2025-07-28T19:14:47.261Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-28T19:14:47.261Z",
+  "updated_by": "jackDeVry"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "56328273-6925-48e9-bbbd-36d83cab89b6": {
+      "label": "Madagascar de Fernando Pérez (1994)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=d-DoTK9VJW4&t=1022s&ab_channel=NostalgiaRedux",
+      "duration": 2973
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Madagascar de Fernando Pérez (1994)",
+  "created_at": "2025-07-28T19:14:47.261Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-28T19:14:47.261Z",
+  "updated_by": "jackDeVry"
+}

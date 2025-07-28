@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b1432b64-ae5c-469e-aff5-85a8e1f3769b": {
+      "label": "Vampiros en La Habana de Juan Padrón",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=8jBPnn3ULKA&ab_channel=olcc81",
+      "duration": 4159
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Vampiros en La Habana de Juan Padrón",
+  "created_at": "2025-07-28T19:14:47.261Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-28T19:14:47.261Z",
+  "updated_by": "jackDeVry"
+}

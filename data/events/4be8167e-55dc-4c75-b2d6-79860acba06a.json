@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2efc0d53-d649-4778-9b42-287087490f7d": {
+      "label": "Historias de la Revolución de Tomás Gutiérrez Alea (1960)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=4hJDyFhg89M&ab_channel=CineclubeBrasil",
+      "duration": 5005
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Historias de la Revolución de Tomás Gutiérrez Alea (1960)",
+  "created_at": "2025-07-28T19:14:47.261Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-28T19:14:47.261Z",
+  "updated_by": "jackDeVry"
+}
