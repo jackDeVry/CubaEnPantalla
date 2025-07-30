@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "eae63833-69a0-47a9-a1f7-5eb44ba07276",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-28T19:14:47.730Z",
   "created_by": "jackDeVry",
   "title": "Lucía de Humberto Solas (1968) ",
   "slug": "lucia-de-humberto-solas-1968",
-  "updated_at": "2025-07-28T19:14:47.730Z",
+  "updated_at": "2025-07-30T21:38:44.348Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "eae63833-69a0-47a9-a1f7-5eb44ba07276"
   }
