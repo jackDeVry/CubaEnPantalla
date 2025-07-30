@@ -72,9 +72,17 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://www.juventudrebelde.cu/images/medias/2024/04/E8IiwC_06-04-2024_20.04.40.000000.jpg",
-              "caption": "(Asociación Hermanos Saíz)",
+              "url": "https://i.ebayimg.com/images/g/Fw4AAOSwv7JiAEk7/s-l1200.jpg",
+              "caption": "(Cine Movil Cuba)",
               "children": [
                 {
                   "text": ""
@@ -150,6 +158,14 @@
         {
           "type": "column",
           "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -272,15 +288,15 @@
       ]
     }
   ],
-  "title": "Relación del Cine Dentro de Cuba ",
+  "title": "El Cine Dentro de Cuba ",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "relacion-del-cine-dentro-de-cuba",
+  "slug": "el-cine-dentro-de-cuba",
   "created_at": "2025-07-30T16:11:42.716Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-30T21:38:12.987Z",
+  "updated_at": "2025-07-30T21:55:16.007Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
