@@ -12,14 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. La selección de películas está basado en el temario del \"Curso de Cine Cubano\" organizado por la ICAIC. Yo tomé este curso durante mi semestre en Cuba en el otoño del 2019. El curso fue dirigido por una de las documentaristas más importantes de Cuba Lourdes Prieto. "
         }
       ]
@@ -33,8 +25,25 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El proyecto está compilado con una mezcla de breve ensayos sobre el papel de cine dentro de la cultural y política cubana, la exhibición de varias películas, y un ensayo sobre la situación crítica de la conservación del cine cubano presentemente. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://www.plenglish.com/wp-content/uploads/2023/03/ICAIC-1.jpg",
+      "url": "https://oncubanews.com/wp-content/uploads/2020/10/cine-cubano-kaloian.jpg",
+      "caption": "(OnCuba News)",
       "children": [
         {
           "text": ""
@@ -53,7 +62,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2025-07-30T16:10:16.649Z",
+  "updated_at": "2025-07-30T21:59:02.418Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
