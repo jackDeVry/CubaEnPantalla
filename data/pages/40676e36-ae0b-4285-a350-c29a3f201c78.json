@@ -33,14 +33,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "image",
       "url": "https://www.plenglish.com/wp-content/uploads/2023/03/ICAIC-1.jpg",
       "children": [
@@ -61,7 +53,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2025-07-28T19:32:04.741Z",
+  "updated_at": "2025-07-30T16:10:16.649Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
