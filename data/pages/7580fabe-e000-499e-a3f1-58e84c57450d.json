@@ -1,0 +1,155 @@
+{
+  "content": [
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "El archivo de cine del ICAIC guarda algunas de las obras más importantes de la historia cultural de Cuba. Pero hoy, ese patrimonio está en peligro. No por desinterés del público ni por falta de valor artístico, sino porque literalmente se está descomponiendo. Los rollos originales están siendo invadidos por hongos, bacterias y humedad. Muchas cintas huelen a vinagre, señal clara de que el proceso de deterioro químico ha comenzado y que, sin intervención urgente, serán imposibles de recuperar."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cuba no cuenta con los recursos necesarios para conservar su memoria cinematográfica. Mantener un archivo fílmico en buen estado requiere climatización especializada, personal técnico formado y acceso a materiales y laboratorios. Nada de eso abunda hoy en la isla. El ICAIC, que en su día fue un emblema de cultura y modernidad revolucionaria, lleva años funcionando con presupuestos mínimos y equipos cada vez más obsoletos. Hay películas que ni siquiera han podido ser digitalizadas una vez, y otras que solo existen en copias deterioradas que ya no se pueden proyectar sin riesgo."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No se trata solo de un problema técnico, sino también de una urgencia política y cultural. El cine cubano ha sido, desde 1959, una herramienta de crítica, de reflexión social y de construcción identitaria. Si esas películas se pierden, no solo desaparecen unas imágenes: desaparece también la posibilidad de volver a mirarse, de pensar el pasado con matices, de aprender de lo que se hizo y se vivió."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Lo más preocupante es que no hace falta una catástrofe para que todo esto se pierda. Basta con no hacer nada. Basta con seguir dejando las latas almacenadas en condiciones inadecuadas, en un clima tropical que acelera la descomposición. El olvido avanza en silencio, carrete a carrete."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Conservar estas películas no es un lujo ni una nostalgia. Es una responsabilidad con la historia del país y con las futuras generaciones. Porque no hay revolución que resista sin memoria. Y sin cine, Cuba pierde una de sus voces más potentes."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.filmarchive.gov.hk/image/journal/article-29451928.jpeg",
+              "caption": "(Film Archive UK)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Crisis en el Archivo",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "crisis-en-el-archivo",
+  "created_at": "2025-07-30T22:03:28.268Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-07-30T22:03:28.268Z",
+  "updated_by": "jackDeVry"
+}
