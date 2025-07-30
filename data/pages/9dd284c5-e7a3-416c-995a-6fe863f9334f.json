@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "ff7c61e2-6684-440c-bba8-eeeebce8efd6",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-28T19:14:47.890Z",
   "created_by": "jackDeVry",
   "title": "Vampiros en La Habana de Juan Padrón",
   "slug": "vampiros-en-la-habana-de-juan-padron",
-  "updated_at": "2025-07-28T19:14:47.890Z",
+  "updated_at": "2025-07-30T21:38:53.393Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "ff7c61e2-6684-440c-bba8-eeeebce8efd6"
   }
