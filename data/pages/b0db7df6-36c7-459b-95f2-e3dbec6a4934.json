@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "0f5640ba-fa23-4ee0-9422-4deb95b26896",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-28T19:14:48.049Z",
   "created_by": "jackDeVry",
   "title": "Suite Habana de Fernando Pérez (2003)",
   "slug": "suite-habana-de-fernando-perez-2003",
-  "updated_at": "2025-07-28T19:14:48.049Z",
+  "updated_at": "2025-07-30T21:39:07.338Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "0f5640ba-fa23-4ee0-9422-4deb95b26896"
   }
