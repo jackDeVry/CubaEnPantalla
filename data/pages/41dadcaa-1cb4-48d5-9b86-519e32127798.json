@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "49df7cff-da66-4903-b43d-a0bb8be42d91",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-28T19:14:47.549Z",
   "created_by": "jackDeVry",
   "title": "Now de Santiago Álvarez  (1965)",
   "slug": "now-de-santiago-alvarez-1965",
-  "updated_at": "2025-07-28T19:14:47.549Z",
+  "updated_at": "2025-07-30T21:38:29.058Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "49df7cff-da66-4903-b43d-a0bb8be42d91"
   }
