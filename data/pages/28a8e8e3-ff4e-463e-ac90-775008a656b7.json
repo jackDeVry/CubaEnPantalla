@@ -9,13 +9,38 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Historias de la Revolución",
+          "bold": true
+        },
+        {
+          "text": " es un filme clave en la historia del cine cubano, que marca el comienzo de una nueva etapa en la producción cinematográfica de la isla, inmediatamente después del triunfo de la Revolución. La película presenta tres relatos entrelazados que abordan las experiencias de los cubanos durante los primeros años del proceso revolucionario, capturando tanto el entusiasmo inicial como las tensiones internas. A través de una estructura narrativa fragmentada, Gutiérrez Alea no solo documenta el momento histórico, sino que ofrece una reflexión crítica sobre los desafíos de la Revolución, destacando las contradicciones entre los ideales revolucionarios y las realidades de la vida cotidiana. Su enfoque humanista, junto con el uso de un estilo visual moderno para la época, convierte a "
+        },
+        {
+          "text": "Historias de la Revolución",
+          "bold": true
+        },
+        {
+          "text": " en una obra seminal para entender los primeros momentos de la Cuba socialista y su representación en el cine."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "4be8167e-55dc-4c75-b2d6-79860acba06a",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +60,7 @@
   "created_by": "jackDeVry",
   "title": "Historias de la Revolución de Tomás Gutiérrez Alea (1960)",
   "slug": "historias-de-la-revolucion-de-tomas-gutierrez",
-  "updated_at": "2025-07-30T21:59:24.300Z",
+  "updated_at": "2025-07-31T18:49:19.090Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
