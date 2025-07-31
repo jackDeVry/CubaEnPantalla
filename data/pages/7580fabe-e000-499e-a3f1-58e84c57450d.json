@@ -14,6 +14,30 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "El archivo de cine del ICAIC guarda algunas de las obras más importantes de la historia cultural de Cuba. Pero hoy, ese patrimonio está en peligro. No por desinterés del público ni por falta de valor artístico, sino porque literalmente se está descomponiendo. Los rollos originales están siendo invadidos por hongos, bacterias y humedad. Muchas cintas huelen a vinagre, señal clara de que el proceso de deterioro químico ha comenzado y que, sin intervención urgente, serán imposibles de recuperar."
                 }
               ]
@@ -71,6 +95,29 @@
               "children": [
                 {
                   "text": "Conservar estas películas no es un lujo ni una nostalgia. Es una responsabilidad con la historia del país y con las futuras generaciones. Porque no hay revolución que resista sin memoria. Y sin cine, Cuba pierde una de sus voces más potentes."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Un tremendo recurso acerca de este tema está dentro del libro \""
+                },
+                {
+                  "text": "On Location in Cuba: Street Filmmaking during Times of Transition",
+                  "italic": true
+                },
+                {
+                  "text": "\" por Ann Marie Stock, una de las académicas más valoradas dentro de los estudios cultural relacionados con el cine cubano. "
                 }
               ]
             },
@@ -150,7 +197,7 @@
   "slug": "crisis-en-el-archivo",
   "created_at": "2025-07-30T22:03:28.268Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-30T22:10:17.291Z",
+  "updated_at": "2025-07-31T16:49:54.185Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
