@@ -30,15 +30,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. La selección de películas está basado en el temario del \"Curso de Cine Cubano\" organizado por la ICAIC. Yo tomé este curso durante mi semestre en Cuba en el otoño del 2019. El curso fue dirigido por una de las documentaristas más importantes de Cuba Lourdes Prieto. "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n"
+                  "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. La selección de películas está basado en el temario del \"Curso de Cine Cubano\" organizado por la ICAIC. Yo tomé este curso durante mi semestre en Cuba en el otoño del 2019. El curso fue dirigido por una de las documentaristas más importantes de Cuba Lourdes Prieto. \n"
                 }
               ]
             },
@@ -54,7 +46,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
                 }
               ]
             },
@@ -98,7 +90,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1.El Cine Dentro de Cuba",
+                  "text": "1. El Cine Dentro de Cuba",
                   "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/"
                 }
               ]
@@ -502,7 +494,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2025-07-31T16:09:33.072Z",
+  "updated_at": "2025-07-31T16:09:48.170Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
