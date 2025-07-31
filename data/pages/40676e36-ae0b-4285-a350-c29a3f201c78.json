@@ -12,7 +12,465 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. La selección de películas está basado en el temario del \"Curso de Cine Cubano\" organizado por la ICAIC. Yo tomé este curso durante mi semestre en Cuba en el otoño del 2019. El curso fue dirigido por una de las documentaristas más importantes de Cuba Lourdes Prieto. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. La selección de películas está basado en el temario del \"Curso de Cine Cubano\" organizado por la ICAIC. Yo tomé este curso durante mi semestre en Cuba en el otoño del 2019. El curso fue dirigido por una de las documentaristas más importantes de Cuba Lourdes Prieto. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "El proyecto está compilado con una mezcla de breve ensayos sobre el papel de cine dentro de la cultural y política cubana, la exhibición de varias películas, y un ensayo sobre la situación crítica de la conservación del cine cubano presentemente. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Aquí tengo el bosquejo de los componentes:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ensayos:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "underline": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1.El Cine Dentro de Cuba",
+                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2. Crisis en el Archivo",
+                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/crisis-en-el-archivo/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Películas:",
+                  "underline": true,
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "numbered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Historias de la Revolución",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Tomás Gutiérrez Alea (1960) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Por Primera Vez",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Octavio Cortázar (1967) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Now",
+                          "italic": true
+                        },
+                        {
+                          "text": " y "
+                        },
+                        {
+                          "text": "Ciclón",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Santiago Álvarez (1965) y (1963)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Nosotros la Música",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Rogelio París (1964)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Memorias del Subdesarrollo",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Tomás Gutiérrez Alea (1968) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Operación de Peter Pan ",
+                          "italic": true
+                        },
+                        {
+                          "text": "de Estela Bravo (2010) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Lucía",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Humberto Solás (1968) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Retrato de Teresa",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Pastor Vega (1979) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Adorables Mentiras",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Gerardo Chijona (1991) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Vampiros en La Habana",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Juan Padrón (1985)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Guantanamera",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Tomás Gutiérrez Alea y Juan Carlos Tabio (1995)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Madagascar",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Fernando Pérez (1994) "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Fresa y Chocolate ",
+                          "italic": true
+                        },
+                        {
+                          "text": "de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "En el Cuerpo Equivocado",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Marilyn Solaya (2010)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Suite Habana",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Fernando Pérez (2003)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "type": "paragraph",
+                          "children": [
+                            {
+                              "text": "Conducta",
+                              "italic": true
+                            },
+                            {
+                              "text": " de Ernesto Daranas (2014)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://media.cnn.com/api/v1/images/stellar/prod/180228171237-cines-cuba-tease.jpg?q=w_2362,h_2362,x_0,y_0,c_fill",
+              "caption": "(CNN)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -26,24 +484,6 @@
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "El proyecto está compilado con una mezcla de breve ensayos sobre el papel de cine dentro de la cultural y política cubana, la exhibición de varias películas, y un ensayo sobre la situación crítica de la conservación del cine cubano presentemente. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://oncubanews.com/wp-content/uploads/2020/10/cine-cubano-kaloian.jpg",
-      "caption": "(OnCuba News)",
       "children": [
         {
           "text": ""
@@ -62,7 +502,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2025-07-31T13:34:01.660Z",
+  "updated_at": "2025-07-31T16:09:33.072Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
