@@ -192,6 +192,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "La relación entre Fidel Castro y el cine también se expresó en su voluntad de construir una nueva sensibilidad. No solo importaba lo que se decía, sino cómo se decía. Bajo esta premisa, el ICAIC promovió una estética que, si bien era funcional a los valores de la Revolución, también abrazaba la experimentación formal y el diálogo con las vanguardias del cine mundial. Influencias del neorrealismo italiano, de la Nouvelle Vague francesa, e incluso de cineastas soviéticos como Eisenstein, se entrelazaron con una sensibilidad criolla para dar lugar a un estilo que podríamos llamar "
                 },
                 {
@@ -200,6 +208,14 @@
                 },
                 {
                   "text": "."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -296,7 +312,7 @@
   "slug": "el-cine-dentro-de-cuba",
   "created_at": "2025-07-30T16:11:42.716Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-30T21:55:16.007Z",
+  "updated_at": "2025-07-31T13:33:49.458Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
