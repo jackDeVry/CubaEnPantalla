@@ -22,6 +22,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "Desde sus inicios, el cine cubano ha sido mucho más que una forma de entretenimiento: ha sido un espejo ideológico, una herramienta de pedagogía social y un espacio de disputa simbólica. En el caso de Cuba, esta función se agudiza radicalmente a partir de 1959 con el triunfo de la Revolución liderada por Fidel Castro. La fundación del Instituto Cubano del Arte e Industria Cinematográficos (ICAIC), apenas tres meses después de la victoria revolucionaria, no fue un gesto menor. El Decreto No. 169 del 24 de marzo de 1959, que dio nacimiento al ICAIC, deja entrever de inmediato la importancia estratégica que el nuevo gobierno otorgó al cine como aparato cultural."
                 }
               ]
@@ -31,6 +39,30 @@
               "children": [
                 {
                   "text": "Fidel Castro comprendía el poder de las imágenes en movimiento para moldear conciencias. En un país con altos niveles de analfabetismo y una compleja heterogeneidad cultural, el cine se presentaba como un vehículo ideal para construir una nueva narrativa nacional, una identidad revolucionaria que no solo debía imponerse en el plano militar o económico, sino también en el simbólico. En palabras de Alfredo Guevara, primer presidente del ICAIC y figura clave en su articulación, “el cine es el arte más influyente de nuestro tiempo”. Esta afirmación, lejos de ser retórica, definía una política cultural que buscaba en el cine una forma de reorganizar el imaginario colectivo."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -63,22 +95,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "image",
               "url": "https://i.ebayimg.com/images/g/Fw4AAOSwv7JiAEk7/s-l1200.jpg",
@@ -312,7 +328,7 @@
   "slug": "el-cine-dentro-de-cuba",
   "created_at": "2025-07-30T16:11:42.716Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-31T13:33:49.458Z",
+  "updated_at": "2025-07-31T13:34:26.557Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
