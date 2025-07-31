@@ -4,18 +4,71 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Por Primera Vez"
+        },
+        {
+          "text": " es una obra clave en la historia del cine cubano por su tratamiento de la relación entre el cine y las comunidades rurales de Cuba, particularmente en el contexto de los años posteriores a la Revolución. La película sigue a un equipo de cineastas que viajan por las zonas rurales del este de Cuba, llevando películas a pueblos que nunca antes habían tenido acceso al cine. A través de su mirada única, Cortázar reflexiona sobre el poder transformador del cine como herramienta educativa y cultural en una sociedad que se encontraba en plena reconfiguración. Más que un simple documental sobre la proyección de películas, "
+        },
+        {
+          "text": "Por Primera Vez",
+          "bold": true
+        },
+        {
+          "text": " captura el asombro y la emoción de las personas al ver imágenes del mundo exterior por primera vez, lo que refleja las diferencias de acceso y los cambios sociales que trajo consigo la Revolución. La película no solo documenta este acto cultural, sino que también plantea preguntas sobre el impacto de la Revolución en las formas de conocimiento y en las prácticas de socialización, consolidándose como un testimonio esencial de la Cuba de la época."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "28720ee7-db98-4aea-a985-50b7bcf54bf3",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -35,7 +88,7 @@
   "created_by": "jackDeVry",
   "title": "Por Primera Vez de Octavio Cortázar ",
   "slug": "por-primera-vez-de-octavio-cortazar",
-  "updated_at": "2025-07-30T22:10:07.240Z",
+  "updated_at": "2025-07-31T18:52:14.688Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
