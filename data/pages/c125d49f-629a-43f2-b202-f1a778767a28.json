@@ -9,13 +9,53 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Retrato de Teresa",
+          "bold": true
+        },
+        {
+          "text": " es un filme fundamental en el cine cubano, ya que se adentra en la vida de una mujer cubana de clase media que vive en la Cuba socialista de finales de los años 70. A través de la figura de Teresa, una mujer que se enfrenta al conflicto entre sus responsabilidades familiares y sus deseos de realización personal, la película examina las tensiones y contradicciones dentro de la sociedad cubana de la época. Teresa, una madre y esposa dedicada, se encuentra atrapada entre las expectativas tradicionales de su rol en la familia y las nuevas demandas sociales que exigen su participación activa en la Revolución. A medida que la película avanza, vemos cómo la protagonista lucha por encontrar su voz en un entorno que, aunque progresista, aún mantiene muchas estructuras patriarcales. "
+        },
+        {
+          "text": "Retrato de Teresa",
+          "bold": true
+        },
+        {
+          "text": " ofrece una mirada crítica a la condición de la mujer en la Cuba post-revolucionaria, subrayando cómo las reformas sociales, aunque significativas, no siempre han logrado transformar las relaciones de género. Con un guion y una dirección sobrios, la película se convierte en una reflexión sobre el papel de la mujer en la construcción del socialismo cubano, mientras pone en evidencia las dificultades para alcanzar la verdadera equidad. La obra no solo ilumina las tensiones sociales y familiares, sino que también plantea interrogantes sobre las limitaciones del proyecto revolucionario, haciendo de "
+        },
+        {
+          "text": "Retrato de Teresa",
+          "bold": true
+        },
+        {
+          "text": " una pieza esencial en el análisis del cine cubano de la época y su tratamiento de las cuestiones de género y emancipación."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "e1e2aee9-b0e7-44b9-a783-7262ee0babbb",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +75,7 @@
   "created_by": "jackDeVry",
   "title": "Retrato de Teresa de Pastor Vega (1979) ",
   "slug": "retrato-de-teresa-de-pastor-vega-1979",
-  "updated_at": "2025-07-30T22:09:38.380Z",
+  "updated_at": "2025-08-07T15:15:45.456Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
