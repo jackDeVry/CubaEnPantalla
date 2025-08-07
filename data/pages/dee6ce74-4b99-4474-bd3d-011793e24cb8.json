@@ -4,18 +4,52 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "En el Cuerpo Equivocado"
+        },
+        {
+          "text": " es una película fundamental dentro del cine cubano contemporáneo por su tratamiento de la identidad de género, un tema poco abordado en la cinematografía nacional. A través de la historia de Teresa, una mujer transexual que lucha por encontrar su lugar en una sociedad que la margina, la película ofrece una reflexión profunda sobre los desafíos de la identidad, el cuerpo y la aceptación social en Cuba. A través de un enfoque íntimo y humano, Solaya no solo narra la lucha personal de Teresa por reconciliar su identidad de género con las expectativas sociales, sino que también muestra las contradicciones de un país que, a pesar de sus avances en derechos humanos, aún enfrenta prejuicios y estigmatización hacia las personas trans. La película es una poderosa crítica a las normas rígidas de género y a la marginalización que experimentan aquellos que no encajan en los moldes tradicionales de la sociedad cubana. "
+        },
+        {
+          "text": "En el Cuerpo Equivocado",
+          "bold": true
+        },
+        {
+          "text": " también destaca por su tratamiento cinematográfico sobrio, que utiliza el drama para generar empatía y reflexión sobre un tema profundamente humano y universal. Esta obra se convierte en un hito en el cine cubano por dar visibilidad a una población históricamente silenciada y por abordar temas de identidad sexual en una isla donde las discusiones sobre género y sexualidad aún se encuentran en un proceso de transformación. La película es un llamado a la inclusión, la libertad de identidad y el respeto a la diversidad en todas sus formas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "2c8b97ca-06bc-4d39-916c-78750224cbbf",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +69,7 @@
   "created_by": "jackDeVry",
   "title": "En el cuerpo equivocado de Marilyn Solaya",
   "slug": "en-el-cuerpo-equivocado-de-marilyn-solaya",
-  "updated_at": "2025-07-30T21:59:43.566Z",
+  "updated_at": "2025-08-07T15:16:57.148Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
