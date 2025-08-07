@@ -4,18 +4,59 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Memorias del Subdesarrollo"
+        },
+        {
+          "text": " es una de las películas más emblemáticas y trascendentales del cine cubano, considerada una obra maestra del cine latinoamericano. Basada en la novela de Edmundo Desnoes, la película sigue a Sergio, un burgués cubano que se queda atrás mientras su país se transforma con la Revolución. A través de su mirada crítica, "
+        },
+        {
+          "text": "Memorias del Subdesarrollo",
+          "bold": true
+        },
+        {
+          "text": " examina las tensiones entre la vieja clase media cubana y los nuevos valores que emergen con la Revolución. Lo que hace única a esta película es la forma en que se construye el personaje de Sergio, un hombre alienado, que se convierte en una metáfora de una Cuba atrapada entre el pasado y el futuro, sin poder encajar plenamente en la nueva realidad socialista. Gutiérrez Alea emplea una narrativa fragmentada y un estilo visual que incorpora elementos de cine moderno y vanguardista, rompiendo con las convenciones del cine tradicional. Esta técnica refleja la confusión interna de Sergio y, por extensión, la de la sociedad cubana, dividida entre el entusiasmo por los cambios revolucionarios y la nostalgia por el pasado. La película no solo se enfoca en el impacto de la Revolución, sino que también plantea preguntas sobre el sentido de la identidad nacional, la moralidad, y los efectos del aislamiento cultural. "
+        },
+        {
+          "text": "Memorias del Subdesarrollo",
+          "bold": true
+        },
+        {
+          "text": " sigue siendo un pilar fundamental para comprender las contradicciones de la Cuba post-revolucionaria y un testimonio visual de los conflictos existenciales que definieron a la sociedad cubana en ese período."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "42bd0bca-413f-473b-aec2-20c666ec2077",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -33,9 +74,9 @@
   ],
   "created_at": "2025-07-28T19:14:47.651Z",
   "created_by": "jackDeVry",
-  "title": "Memorias del subdesarrollo de Tomás Gutiérrez Alea (1968) ",
-  "slug": "memorias-del-subdesarrollo-de-tomas-gutierrez",
-  "updated_at": "2025-07-30T22:09:55.870Z",
+  "title": "Memorias del Subdesarrollo de Tomás Gutiérrez Alea (1968) ",
+  "slug": "memorias-del-subdesarrollo-de-tomas-gutierre-2",
+  "updated_at": "2025-08-07T15:12:14.559Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
