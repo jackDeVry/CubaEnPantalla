@@ -4,18 +4,52 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Operación Peter Pan"
+        },
+        {
+          "text": " es un documental crucial que examina uno de los episodios más conmovedores y dramáticos en la historia de las relaciones entre Cuba y Estados Unidos: el éxodo de miles de niños cubanos enviados a los Estados Unidos sin la compañía de sus padres en los primeros años de la Revolución. Bajo la premisa de que sus vidas corrían peligro debido a la reforma educativa socialista en Cuba, más de 14,000 niños fueron enviados al norte con la esperanza de ser adoptados por familias estadounidenses, un episodio que se convirtió en una pieza clave de la Guerra Fría y la propaganda anticomunista. A través de testimonios personales y archivos históricos, Estela Bravo reconstruye los recuerdos y las emociones de aquellos que vivieron esta traumática separación. El filme no solo relata las vivencias de los niños que participaron en la operación, sino que también examina el impacto psicológico y emocional en las familias cubanas, quienes quedaron divididas por este éxodo forzoso. "
+        },
+        {
+          "text": "Operación Peter Pan",
+          "bold": true
+        },
+        {
+          "text": " es una reflexión profunda sobre el costo humano de la política, el desarraigo y la fractura familiar, y ofrece una visión compleja de la historia de la Guerra Fría desde el punto de vista de los cubanos, explorando las consecuencias de la ideología y la manipulación política en la vida de personas inocentes. A través de este relato íntimo y conmovedor, el documental invita a cuestionar el impacto de las políticas de la Guerra Fría y sus efectos duraderos en generaciones de cubanos que aún viven con las cicatrices de esta experiencia."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "237cc446-fc02-45f3-a263-837d82fc9c16",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +69,7 @@
   "created_by": "jackDeVry",
   "title": "Operación de Peter Pan de Estela Bravo (2010) ",
   "slug": "operacion-de-peter-pan-de-estela-bravo-2010",
-  "updated_at": "2025-07-30T22:09:46.837Z",
+  "updated_at": "2025-08-07T15:12:51.222Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
