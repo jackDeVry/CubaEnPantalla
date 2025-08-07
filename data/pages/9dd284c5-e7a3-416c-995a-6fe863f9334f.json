@@ -4,18 +4,59 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Vampiros en La Habana"
+        },
+        {
+          "text": " es una película de animación única que destaca dentro del cine cubano por su originalidad y su combinación de géneros. Esta comedia de terror se adentra en el mundo fantástico de los vampiros, pero lo hace con un giro característico: el contexto cubano. La historia sigue a un grupo de vampiros que buscan en La Habana una fórmula revolucionaria que les permita sobrevivir sin necesidad de sangre humana, lo que les lleva a participar en una serie de situaciones cómicas y disparatadas. "
+        },
+        {
+          "text": "Vampiros en La Habana",
+          "bold": true
+        },
+        {
+          "text": " es, en gran medida, una sátira social y política que utiliza el humor y el absurdo para abordar cuestiones sobre la ideología y las tensiones del período especial en Cuba. A través de la figura de los vampiros, Padrón hace una crítica a las estructuras de poder y la burocracia, al tiempo que juega con elementos de la cultura popular cubana y global. Además de su carga política, la película es un homenaje a los clásicos del cine de terror y la animación, con un estilo visual vibrante y una narrativa que explora temas de identidad, solidaridad y la lucha contra el conformismo. Aunque se presenta en clave de humor y con una estética lúdica, "
+        },
+        {
+          "text": "Vampiros en La Habana",
+          "bold": true
+        },
+        {
+          "text": " es también una reflexión sobre el poder de la imaginación en tiempos de dificultad, y sobre cómo el cine puede subvertir los géneros y los estereotipos para crear una crítica incisiva y entretenida. En este sentido, la película se convierte en una obra singular dentro del cine cubano de la época, que no solo ofrece entretenimiento, sino también una reflexión sobre la sociedad y la política del momento."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "ff7c61e2-6684-440c-bba8-eeeebce8efd6",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +76,7 @@
   "created_by": "jackDeVry",
   "title": "Vampiros en La Habana de Juan Padrón",
   "slug": "vampiros-en-la-habana-de-juan-padron",
-  "updated_at": "2025-07-30T22:09:28.937Z",
+  "updated_at": "2025-08-07T15:19:51.811Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
