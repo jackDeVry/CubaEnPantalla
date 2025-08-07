@@ -4,18 +4,59 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lucía"
+        },
+        {
+          "text": " es una de las películas más importantes del cine cubano y una de las más complejas en su tratamiento de la historia y el papel de la mujer en la sociedad cubana. A través de tres historias que se desarrollan en diferentes épocas de la historia de Cuba, Solás ofrece una visión multifacética de la mujer cubana, desde la colonia hasta la Revolución. Cada \"Lucía\" es una mujer que se enfrenta a los desafíos de su tiempo, pero que, al mismo tiempo, refleja las transformaciones sociales y políticas que ocurren en la isla. La película se estructura de manera innovadora, presentando tres relatos que no solo exploran el amor y la lucha personal, sino también los cambios en las relaciones de género y las tensiones dentro de la sociedad cubana. En el primer segmento, ambientado en la época colonial, se aborda la opresión de las mujeres bajo el sistema colonial español, mientras que en el segundo, en la Cuba republicana, se examinan los dilemas y conflictos de una mujer atrapada entre el amor y las expectativas sociales. Finalmente, la tercera parte, situada en la Cuba revolucionaria, muestra a una mujer que se enfrenta a las contradicciones de un país que intenta construir una nueva identidad socialista. "
+        },
+        {
+          "text": "Lucía",
+          "bold": true
+        },
+        {
+          "text": " no solo es un estudio sobre la mujer en Cuba, sino una reflexión profunda sobre la evolución de la sociedad cubana y el papel crucial que las mujeres han jugado en esa transformación. Con una estética visual innovadora y una narrativa que desafía las convenciones del cine de la época, "
+        },
+        {
+          "text": "Lucía",
+          "bold": true
+        },
+        {
+          "text": " se consolidó como una obra fundamental que plantea preguntas sobre la emancipación, la identidad nacional y el feminismo en el contexto de la Revolución Cubana."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "eae63833-69a0-47a9-a1f7-5eb44ba07276",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +76,7 @@
   "created_by": "jackDeVry",
   "title": "Lucía de Humberto Solas (1968) ",
   "slug": "lucia-de-humberto-solas-1968",
-  "updated_at": "2025-07-30T22:09:42.685Z",
+  "updated_at": "2025-08-07T15:15:12.588Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
