@@ -9,13 +9,60 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fresa y Chocolate",
+          "bold": true
+        },
+        {
+          "text": " es una de las películas más emblemáticas del cine cubano, no solo por su valiente tratamiento de temas sociales delicados, sino también por su capacidad para abordar cuestiones de identidad, ideología y libertad en el contexto de la Cuba post-revolucionaria. La película narra la historia de un joven comunista, David, quien se encuentra con Diego, un hombre homosexual y disidente del régimen, en una Cuba que todavía mantiene rígidas normas sobre el comportamiento político y social. A través de su encuentro, la película explora las tensiones entre la ideología revolucionaria oficial y la pluralidad de identidades y pensamientos que coexisten dentro de la sociedad cubana. "
+        },
+        {
+          "text": "Fresa y Chocolate",
+          "bold": true
+        },
+        {
+          "text": " desafía las convenciones del cine cubano de la época al abordar de manera abierta la homosexualidad y la represión ideológica en una isla donde tales temas eran raramente tocados en la cultura popular. La película es una reflexión sobre el amor, la amistad y la intolerancia, mostrando cómo las diferencias políticas y sociales pueden convertirse en barreras que separan a las personas, pero también cómo la empatía y el entendimiento pueden derribar esas barreras. Además de su poderosa carga política, "
+        },
+        {
+          "text": "Fresa y Chocolate",
+          "bold": true
+        },
+        {
+          "text": " es una obra profundamente humana, que resalta las complejidades de la condición humana en un contexto de estricta vigilancia social. La dirección conjunta de Gutiérrez Alea y Tabío, con su capacidad para equilibrar la crítica social con momentos de ternura y humor, convierte a la película en un hito dentro del cine latinoamericano. Al poner en primer plano la lucha por la libertad individual y la aceptación, "
+        },
+        {
+          "text": "Fresa y Chocolate",
+          "bold": true
+        },
+        {
+          "text": " se establece como una obra esencial en el análisis de la Cuba revolucionaria, sus contradicciones internas y su constante búsqueda por la verdadera inclusión y justicia social."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "d88db5ba-d671-4dd8-bf54-43bd97e33f26",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +82,7 @@
   "created_by": "jackDeVry",
   "title": "Fresa y Chocolate de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)",
   "slug": "fresa-y-chocolate-de-tomas-gutierrez-alea-y-j",
-  "updated_at": "2025-07-30T21:59:48.048Z",
+  "updated_at": "2025-08-07T15:19:19.625Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
