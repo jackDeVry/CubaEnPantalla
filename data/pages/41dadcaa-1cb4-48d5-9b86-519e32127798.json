@@ -9,13 +9,53 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now",
+          "bold": true
+        },
+        {
+          "text": " es un cortometraje revolucionario de Santiago Álvarez que se posiciona como una de las obras más contundentes del cine cubano de la Revolución. A través de una estética de montaje innovador y un ritmo frenético, Álvarez denuncia la discriminación racial en Estados Unidos, haciendo un llamado urgente a la acción política y social. El filme, que se caracteriza por su estilo experimental y su uso agresivo del collage de imágenes, combina fotografías de la lucha por los derechos civiles en los EE.UU. con imágenes de la violencia racial, en un montaje que es tanto visualmente impactante como ideológicamente potente. "
+        },
+        {
+          "text": "Now",
+          "bold": true
+        },
+        {
+          "text": " es un ejemplo paradigmático de cómo el cine puede ser una herramienta de denuncia y activismo, alineándose con los ideales de la Revolución Cubana al criticar la opresión y al mismo tiempo ofrecer una alternativa a la narrativa dominante del poder. Con una duración de solo 10 minutos, la película logra condensar una fuerte crítica política que trasciende su formato corto y se convierte en un poderoso manifiesto contra la injusticia racial. Además, "
+        },
+        {
+          "text": "Now",
+          "bold": true
+        },
+        {
+          "text": " refleja la capacidad del cine cubano para abordar temas internacionales, mostrando cómo la Revolución se vinculaba con los movimientos de justicia social en otras partes del mundo, convirtiéndola en una pieza fundamental del cine de compromiso político."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "49df7cff-da66-4903-b43d-a0bb8be42d91",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -35,7 +75,7 @@
   "created_by": "jackDeVry",
   "title": "Now de Santiago Álvarez  (1965)",
   "slug": "now-de-santiago-alvarez-1965",
-  "updated_at": "2025-07-30T22:10:03.802Z",
+  "updated_at": "2025-08-07T15:09:40.571Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
