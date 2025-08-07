@@ -4,18 +4,66 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Ciclón"
+        },
+        {
+          "text": " es otro de los cortometrajes emblemáticos de Santiago Álvarez, que, al igual que "
+        },
+        {
+          "text": "Now",
+          "bold": true
+        },
+        {
+          "text": ", combina un enfoque documental con una fuerte carga política y social. Este cortometraje narra la devastación causada por el huracán Flora en Cuba, un desastre natural que afectó gravemente las regiones orientales de la isla en 1963. Sin embargo, más allá de ser una simple crónica de la tragedia, "
+        },
+        {
+          "text": "Ciclón",
+          "bold": true
+        },
+        {
+          "text": " utiliza el desastre como una metáfora de la resiliencia y solidaridad del pueblo cubano en tiempos de crisis. A través de un montaje vertiginoso y el uso de imágenes impactantes de la destrucción y la posterior reconstrucción, Álvarez resalta el espíritu colectivo de la Revolución Cubana, que se moviliza para ayudar a los afectados y reconstruir lo perdido. La película no solo documenta la respuesta inmediata del gobierno cubano ante el desastre, sino que también resalta la importancia del trabajo conjunto entre las instituciones y la población en un contexto de fuerte ideología revolucionaria. "
+        },
+        {
+          "text": "Ciclón",
+          "bold": true
+        },
+        {
+          "text": " se convierte, por lo tanto, en una obra que no solo aborda el impacto de un evento natural, sino que también pone en primer plano los valores de solidaridad, colectividad y compromiso que definían a la Cuba revolucionaria de la época. Este cortometraje destaca el papel del cine como una herramienta de propaganda revolucionaria, utilizando la tragedia para reafirmar la fortaleza del proyecto socialista cubano."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "6162f1fc-a515-4626-b72d-35f767478748",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +83,7 @@
   "created_by": "jackDeVry",
   "title": "Ciclón de Santiago Álvarez (1963)",
   "slug": "ciclon-de-santiago-alvarez-1963",
-  "updated_at": "2025-07-30T22:10:00.312Z",
+  "updated_at": "2025-08-07T15:10:30.291Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
