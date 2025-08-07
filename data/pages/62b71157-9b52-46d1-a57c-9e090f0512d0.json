@@ -4,18 +4,44 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Nosotros la Música"
+        },
+        {
+          "text": " es una de las obras más significativas dentro del cine cubano de los años 60, destacándose no solo por su estilo experimental, sino también por su capacidad para capturar el alma de la identidad cultural cubana. A través de un enfoque que mezcla el cine documental con la experimentación visual, Rogelio París crea una obra que examina la relación entre la música popular cubana y los procesos sociales y políticos de la Revolución. El filme es un viaje sonoro y visual que se adentra en los géneros musicales autóctonos de Cuba, como el son, la salsa y la música tradicional, mientras también reflexiona sobre su papel en la construcción de una nueva Cuba revolucionaria. "
+        },
+        {
+          "text": "Nosotros la Música",
+          "bold": true
+        },
+        {
+          "text": " no es solo una representación del acto musical, sino que utiliza la música como un medio para explorar la identidad colectiva de la isla, mostrando cómo los cubanos reinterpretan y revalorizan su herencia cultural en un contexto de cambio político. La película, a través de su estilo visual innovador, que incluye imágenes poéticas y surrealistas, establece un puente entre el pasado y el presente de la cultura cubana, subrayando la importancia de la música como elemento unificador en los esfuerzos revolucionarios. Este filme se convierte en una pieza fundamental para entender cómo la cultura cubana, especialmente a través de la música, jugó un papel crucial en la construcción de la identidad nacional durante los primeros años de la Revolución."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
       "uuid": "32efbfbd-5ff6-424f-882e-4e9884e847eb",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -33,9 +59,9 @@
   ],
   "created_at": "2025-07-28T19:14:47.612Z",
   "created_by": "jackDeVry",
-  "title": "Nosotros la música de Rogelio Paris (1964)",
-  "slug": "nosotros-la-musica-de-rogelio-paris-1964",
-  "updated_at": "2025-07-30T22:09:51.378Z",
+  "title": "Nosotros la Música de Rogelio Paris (1964)",
+  "slug": "nosotros-la-musica-de-rogelio-paris-1964-2",
+  "updated_at": "2025-08-07T15:11:09.566Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
