@@ -4,18 +4,59 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Guantanamera"
+        },
+        {
+          "text": " es una película que destaca por su tono satírico y su enfoque crítico sobre la Cuba post-período especial, un momento de profunda crisis económica y social en la isla. A través de una estructura narrativa coral, el filme entrelaza diversas historias de personajes que se enfrentan a los dilemas cotidianos de la vida en Cuba, desde la burocracia estatal hasta las tensiones generacionales. En el centro de la trama se encuentra el viaje de un cadáver desde La Habana hasta la ciudad de Guantánamo, lo que funciona como una metáfora de las dificultades y absurdos que enfrenta la sociedad cubana en un contexto de aislamiento y escasez. "
+        },
+        {
+          "text": "Guantanamera",
+          "bold": true
+        },
+        {
+          "text": " ofrece una crítica aguda a la falta de recursos, la ineficiencia del sistema y las contradicciones que surgen cuando se trata de mantener los ideales revolucionarios en un contexto de desilusión y cambio. A través de sus personajes, el filme refleja una Cuba que lucha por encontrar su camino en medio de la modernidad y la pérdida de los valores que dieron origen a la Revolución. El tono humorístico, combinado con una crítica social mordaz, convierte a "
+        },
+        {
+          "text": "Guantanamera",
+          "bold": true
+        },
+        {
+          "text": " en una reflexión sobre la vida cotidiana de los cubanos, sus esperanzas y frustraciones. Es una obra que no solo presenta las dificultades del pueblo cubano, sino que también ofrece una visión de resistencia ante las adversidades, haciendo uso de la comedia para subrayar una realidad de lucha constante por la supervivencia en tiempos de transformación."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "db5d2ee8-9909-4725-aabe-f78b79e29580",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +76,7 @@
   "created_by": "jackDeVry",
   "title": "Guantanamera de Tomás Gutiérrez Alea y Juan Carlos Tabio (1995) ",
   "slug": "guantanamera-de-tomas-gutierrez-alea-y-juan-c",
-  "updated_at": "2025-07-30T22:09:24.619Z",
+  "updated_at": "2025-08-07T15:17:36.780Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
