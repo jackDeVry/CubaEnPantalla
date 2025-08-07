@@ -9,13 +9,60 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Conducta",
+          "bold": true
+        },
+        {
+          "text": " es una película conmovedora y crítica que se adentra en las tensiones sociales y educativas que definen la Cuba contemporánea. Centrada en la relación entre un maestro y su estudiante, el filme aborda cuestiones clave como el sistema educativo, la disfuncionalidad familiar y las desigualdades sociales que afectan a los jóvenes cubanos. El protagonista, un niño llamado Chala, proviene de un hogar problemático y, a pesar de sus dificultades, mantiene una actitud rebelde frente a las normas impuestas por la sociedad y la escuela. A través de la figura de su maestro, que se convierte en una figura de resistencia dentro de un sistema educativo que se enfrenta a retos económicos y estructurales, "
+        },
+        {
+          "text": "Conducta",
+          "bold": true
+        },
+        {
+          "text": " presenta una reflexión sobre el papel de la educación en la formación de valores y la lucha por un futuro mejor. La película pone en evidencia la crisis del sistema educativo cubano, que, aunque sigue siendo un pilar fundamental de la Revolución, se ve afectado por la escasez de recursos y la falta de apoyo institucional. Al mismo tiempo, "
+        },
+        {
+          "text": "Conducta",
+          "bold": true
+        },
+        {
+          "text": " trata el tema de la moralidad y la capacidad de los individuos para cambiar su destino a pesar de las circunstancias adversas. Con una dirección sensible y una narrativa emocionalmente impactante, Daranas ofrece una mirada crítica a los desafíos de la Cuba actual, haciendo un llamado a la solidaridad y la empatía frente a los problemas sociales que afectan a la juventud cubana. "
+        },
+        {
+          "text": "Conducta",
+          "bold": true
+        },
+        {
+          "text": " es, por tanto, una obra que no solo es un reflejo de la realidad cubana, sino también una crítica a los valores y las estructuras que definen la sociedad, invitando a la reflexión sobre las posibilidades de transformación social a través de la educación y el apoyo mutuo."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "32e58142-9238-4137-9dd1-745836fadbb7",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +82,7 @@
   "created_by": "jackDeVry",
   "title": "Conducta de Ernesto Daranas (2014) ",
   "slug": "conducta-de-ernesto-daranas-2014",
-  "updated_at": "2025-07-30T21:59:31.916Z",
+  "updated_at": "2025-08-07T15:20:21.288Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
