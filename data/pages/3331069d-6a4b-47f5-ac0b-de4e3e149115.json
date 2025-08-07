@@ -9,13 +9,46 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Madagascar",
+          "bold": true
+        },
+        {
+          "text": " es una película fundamental en el cine cubano de la década de 1990, que aborda de manera conmovedora y profunda los temas de la emigración y la identidad en el contexto de la Cuba post-revolucionaria. A través de la historia de un hombre que viaja a Madagascar buscando una vida mejor, la película reflexiona sobre las razones detrás de la emigración y el sentimiento de desarraigo que experimenta aquel que se ve obligado a dejar su país en busca de nuevas oportunidades. El protagonista, un joven cubano que se enfrenta a una vida de limitaciones en Cuba, decide emigrar para escapar de las dificultades económicas y la falta de perspectivas, pero al hacerlo se encuentra con la soledad, el vacío existencial y las complicaciones de vivir en un entorno desconocido. A lo largo de su viaje, la película plantea interrogantes sobre la identidad cubana, la relación con la tierra natal y la búsqueda de un futuro que a veces se siente fuera de alcance. "
+        },
+        {
+          "text": "Madagascar",
+          "bold": true
+        },
+        {
+          "text": " es una metáfora sobre el proceso de transformación personal y social que viven los individuos en tiempos de crisis, mientras se enfrentan a las paradojas de un sistema que, a pesar de sus esfuerzos por construir un futuro mejor, también produce situaciones de desesperanza y frustración. Con una dirección austera y una puesta en escena sobria, Fernando Pérez ofrece una reflexión íntima y universal sobre el desarraigo, la esperanza y la lucha por encontrar un sentido en medio de la incertidumbre. Esta película se convierte en un testimonio de la Cuba de los años 90, marcada por la crisis económica y la necesidad de adaptarse a un mundo que ya no ofrece las mismas certezas de antes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "4f550da1-931f-4c0e-a21b-d458be13b216",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +68,7 @@
   "created_by": "jackDeVry",
   "title": "Madagascar de Fernando Pérez (1994)",
   "slug": "madagascar-de-fernando-perez-1994",
-  "updated_at": "2025-07-30T22:09:18.882Z",
+  "updated_at": "2025-08-07T15:18:09.640Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
