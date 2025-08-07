@@ -9,13 +9,60 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Suite Habana",
+          "bold": true
+        },
+        {
+          "text": " es una de las obras más poéticas y visualmente impresionantes del cine cubano contemporáneo. A través de una estructura episódica, la película sigue las vidas de varios personajes en La Habana durante un día cualquiera, mostrando la cotidianidad de sus existencias a través de pequeñas pero significativas acciones. Sin un diálogo extenso, el filme se comunica principalmente a través de la imagen, la música y los sonidos de la ciudad, creando una atmósfera única que invita a reflexionar sobre la vida en Cuba a comienzos del siglo XXI. Cada uno de los personajes que aparece en "
+        },
+        {
+          "text": "Suite Habana",
+          "bold": true
+        },
+        {
+          "text": " tiene una historia que, aunque sencilla, está llena de humanidad, desafiando las grandes narrativas históricas para centrarse en las experiencias individuales de los cubanos de a pie. A través de esta representación de lo cotidiano, la película nos ofrece una visión melancólica pero esperanzadora de La Habana y de la vida en Cuba, en un momento en que el país aún se encontraba lidiando con los efectos del Período Especial. "
+        },
+        {
+          "text": "Suite Habana",
+          "bold": true
+        },
+        {
+          "text": " no solo es una reflexión sobre la vida en la ciudad, sino también sobre la resistencia, la solidaridad y las pequeñas alegrías que permiten a las personas seguir adelante en medio de las adversidades. La dirección de Pérez, que emplea planos largos y una cinematografía minimalista, da lugar a un cine contemplativo que refleja la belleza de los momentos más humildes de la vida cubana, convirtiendo la película en una suerte de oda a la ciudad y a su gente. A través de su enfoque sensorial y su delicadeza narrativa, "
+        },
+        {
+          "text": "Suite Habana",
+          "bold": true
+        },
+        {
+          "text": " se convierte en una obra fundamental para entender la Cuba de la transición post-soviética, destacando el poder del cine para capturar las emociones y la esencia de un lugar y su gente."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "0f5640ba-fa23-4ee0-9422-4deb95b26896",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +82,7 @@
   "created_by": "jackDeVry",
   "title": "Suite Habana de Fernando Pérez (2003)",
   "slug": "suite-habana-de-fernando-perez-2003",
-  "updated_at": "2025-07-30T21:59:37.519Z",
+  "updated_at": "2025-08-07T15:18:47.023Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
