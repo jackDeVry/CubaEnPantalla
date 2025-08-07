@@ -4,18 +4,52 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Adorables Mentiras"
+        },
+        {
+          "text": " es una comedia dramática que ofrece una mirada crítica y a la vez divertida sobre las complejidades de las relaciones humanas en la Cuba post-revolucionaria. A través de una historia de enredos y malentendidos, la película aborda las tensiones sociales, las expectativas familiares y los secretos que, a menudo, se esconden tras las apariencias. La trama sigue a un grupo de personajes cuyas vidas se cruzan cuando un hombre, en un intento por impresionar a una mujer, se ve atrapado en una serie de mentiras que rápidamente se complican. La película combina elementos de comedia y drama para explorar cómo la mentira, tanto en el plano personal como social, puede afectar las relaciones y la percepción de la realidad. "
+        },
+        {
+          "text": "Adorables Mentiras",
+          "bold": true
+        },
+        {
+          "text": " destaca por su aguda crítica a las expectativas sociales en Cuba, especialmente aquellas relacionadas con la moralidad, la familia y la apariencia. A través de su enfoque ligero pero crítico, Chijona presenta una sociedad cubana que, mientras busca modernizarse y adaptarse a los cambios sociales y económicos, también está marcada por las contradicciones y las tensiones internas. La película, aunque centrada en la comedia, funciona como una reflexión sobre la falta de honestidad en las relaciones humanas y cómo las mentiras, en ocasiones, son utilizadas como mecanismos de escape en una sociedad que se encuentra en plena transición."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "633c2612-923b-4c4b-8379-75a6c07ede8b",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +69,7 @@
   "created_by": "jackDeVry",
   "title": "Adorables Mentiras de Gerardo Chijona (1991)",
   "slug": "adorables-mentiras-de-gerardo-chijona-1991",
-  "updated_at": "2025-07-30T22:09:33.825Z",
+  "updated_at": "2025-08-07T15:16:18.428Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
