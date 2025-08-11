@@ -1,0 +1,120 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Con las películas cubanas, encontrar un lugar estable donde verlas es complicado. El acceso es volátil, cambiante, y muchas veces depende de pura suerte. Hoy una película está disponible, mañana puede desaparecer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gran parte de este cine circula en plataformas como YouTube, Vimeo o incluso Facebook. Sin embargo, la mayoría de estos espacios no cuentan con licencias oficiales, y los usuarios que suben el contenido no tienen permiso para distribuirlo. Esto provoca que, tarde o temprano, los enlaces se caigan: los videos son borrados por las propias plataformas o por reclamos de derechos de autor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esta es la realidad para quien intenta adentrarse en el cine cubano: no basta con encender Netflix o Hulu y poner una película en 4K. En lugar de eso, hay que recorrer las grietas de internet, saltando de link en link, con la esperanza de encontrar una copia que funcione."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En Cuba, una de las principales formas de acceder a películas —incluyendo cine nacional— es el "
+        },
+        {
+          "text": "paquete semanal",
+          "italic": true
+        },
+        {
+          "text": ": una colección masiva de contenido digital que circula de manera informal en discos duros y memorias USB. Aunque suele centrarse en series, películas extranjeras y material de entretenimiento, en ocasiones incluye cine cubano, especialmente si hay demanda puntual o algún estreno reciente. Sin embargo, esta distribución no está institucionalizada y depende completamente de redes informales y del interés del momento."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Y, aun así, esto solo suele ser posible con las películas más conocidas. Para las menos vistas, las más escondidas, la opción más segura sigue siendo ir a Cuba y conseguirlas directamente, muchas veces en un Pen Drive, de mano en mano, como parte de un intercambio más cercano al trueque que al streaming."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://i.cbc.ca/1.3527565.1460143715!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/getty-cuba-paquete.jpg?im=Resize%3D780",
+      "caption": "(CBC)",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "¡Aviso Importante Acerca del Contenido!",
+  "parent": "40676e36-ae0b-4285-a350-c29a3f201c78",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "aviso-importante-acerca-del-contenido",
+  "created_at": "2025-08-11T18:40:32.645Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-08-11T18:40:32.645Z",
+  "updated_by": "jackDeVry"
+}
