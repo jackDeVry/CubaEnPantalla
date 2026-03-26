@@ -461,6 +461,24 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/8451-/bfXZuQULMxfbFMHLrL5SpJXYhV6qqZ_original.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 81
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -494,7 +512,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2025-07-31T16:09:48.170Z",
+  "updated_at": "2026-03-26T15:27:41.986Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
