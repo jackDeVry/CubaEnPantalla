@@ -10,8 +10,146 @@
       "align": "center"
     },
     {
-      "type": "image",
-      "url": "https://endac.org/wp-content/uploads/2021/09/Lourdes-Prieto.jpg",
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://endac.org/wp-content/uploads/2021/09/Lourdes-Prieto.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(n. La Habana, 15 de junio de 1951; m. La Habana, 14 de septiembre de 2021). Cineasta. Licenciada en Historia del Arte por la Facultad de Humanidades de la Universidad de La Habana, cursó estudios de posgrado en Filosofía y en Estética Cinematográfica. Fue docente de Documental en la "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/famca/",
+                  "children": [
+                    {
+                      "text": "FAMCA"
+                    }
+                  ]
+                },
+                {
+                  "text": " y la "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/eictv/",
+                  "children": [
+                    {
+                      "text": "EICTV"
+                    }
+                  ]
+                },
+                {
+                  "text": ", así como conferencista en la Universidad del Sagrado Corazón y el Centro de Estudios Avanzados de Puerto Rico y el Caribe (Puerto Rico), la Casa de Teatro y FUNGLODE (República Dominicana) y la Universidad Iberoamericana (México). Comenzó a trabajar en el ICAIC como asistente de dirección cinematográfica y a partir de 1982 se desempeñó como directora asistente de una veintena de producciones cubanas y europeas, a cargo de prestigiosos realizadores como "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/gutierrez-alea-tomas/",
+                  "children": [
+                    {
+                      "text": "Tomás Gutiérrez Alea"
+                    }
+                  ]
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/juan-carlos-tabio/",
+                  "children": [
+                    {
+                      "text": "Juan Carlos Tabío"
+                    }
+                  ]
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/gerardo-chijona/",
+                  "children": [
+                    {
+                      "text": "Gerardo Chijona"
+                    }
+                  ]
+                },
+                {
+                  "text": " y Pastor Vega. Impartió Cine Cubano en la Universidad de La Habana a estudiantes de universidades norteamericanas (Pittsburg, Pennsylvania, Tulane, Sarah Lawrence College, Burlington College y Marist College). Desde 1988 ha acumulado una extensa obra documental que ha sido exhibida y premiada en diversos festivales de Cuba y el extranjero. Su documental "
+                },
+                {
+                  "text": "Hay un grupo que dice…",
+                  "italic": true
+                },
+                {
+                  "text": " ganó el Tercer Premio del Festival "
+                },
+                {
+                  "type": "link",
+                  "url": "https://endac.org/encyclopedia/santiago-alvarez/",
+                  "children": [
+                    {
+                      "text": "Santiago Álvarez"
+                    }
+                  ]
+                },
+                {
+                  "text": " In memoriam y el Gran Premio Caracol de No Ficción, fue elegido por la crítica cubana como el Mejor Documental exhibido en 2013 y clausuró la edición 35 del Festival del Nuevo Cine Latinoamericano. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -22,86 +160,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n(n. La Habana, 15 de junio de 1951; m. La Habana, 14 de septiembre de 2021). Cineasta. Licenciada en Historia del Arte por la Facultad de Humanidades de la Universidad de La Habana, cursó estudios de posgrado en Filosofía y en Estética Cinematográfica. Fue docente de Documental en la "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/famca/",
-          "children": [
-            {
-              "text": "FAMCA"
-            }
-          ]
-        },
-        {
-          "text": " y la "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/eictv/",
-          "children": [
-            {
-              "text": "EICTV"
-            }
-          ]
-        },
-        {
-          "text": ", así como conferencista en la Universidad del Sagrado Corazón y el Centro de Estudios Avanzados de Puerto Rico y el Caribe (Puerto Rico), la Casa de Teatro y FUNGLODE (República Dominicana) y la Universidad Iberoamericana (México). Comenzó a trabajar en el ICAIC como asistente de dirección cinematográfica y a partir de 1982 se desempeñó como directora asistente de una veintena de producciones cubanas y europeas, a cargo de prestigiosos realizadores como "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/gutierrez-alea-tomas/",
-          "children": [
-            {
-              "text": "Tomás Gutiérrez Alea"
-            }
-          ]
-        },
-        {
-          "text": ", "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/juan-carlos-tabio/",
-          "children": [
-            {
-              "text": "Juan Carlos Tabío"
-            }
-          ]
-        },
-        {
-          "text": ", "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/gerardo-chijona/",
-          "children": [
-            {
-              "text": "Gerardo Chijona"
-            }
-          ]
-        },
-        {
-          "text": " y Pastor Vega. Impartió Cine Cubano en la Universidad de La Habana a estudiantes de universidades norteamericanas (Pittsburg, Pennsylvania, Tulane, Sarah Lawrence College, Burlington College y Marist College). Desde 1988 ha acumulado una extensa obra documental que ha sido exhibida y premiada en diversos festivales de Cuba y el extranjero. Su documental "
-        },
-        {
-          "text": "Hay un grupo que dice…",
-          "italic": true
-        },
-        {
-          "text": " ganó el Tercer Premio del Festival "
-        },
-        {
-          "type": "link",
-          "url": "https://endac.org/encyclopedia/santiago-alvarez/",
-          "children": [
-            {
-              "text": "Santiago Álvarez"
-            }
-          ]
-        },
-        {
-          "text": " In memoriam y el Gran Premio Caracol de No Ficción, fue elegido por la crítica cubana como el Mejor Documental exhibido en 2013 y clausuró la edición 35 del Festival del Nuevo Cine Latinoamericano. \n\n"
+          "text": "\n\n"
         }
       ]
     }
@@ -114,7 +173,7 @@
   "slug": "lourdes-prieto-1951-2021",
   "created_at": "2026-03-26T22:15:48.514Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-03-26T22:16:16.657Z",
+  "updated_at": "2026-03-26T22:20:00.994Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
