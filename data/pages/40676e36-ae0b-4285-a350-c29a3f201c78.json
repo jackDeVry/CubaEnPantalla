@@ -280,14 +280,6 @@
                           "text": " de Tomás Gutiérrez Alea (1960) "
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -303,14 +295,6 @@
                         },
                         {
                           "text": " de Octavio Cortázar (1967) "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -337,14 +321,6 @@
                           "text": " de Santiago Álvarez (1965) y (1963)"
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -360,14 +336,6 @@
                         },
                         {
                           "text": " de Rogelio París (1964)"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -387,14 +355,6 @@
                           "text": " de Tomás Gutiérrez Alea (1968) "
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -410,14 +370,6 @@
                         },
                         {
                           "text": "de Estela Bravo (2010) "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -437,14 +389,6 @@
                           "text": " de Humberto Solás (1968) "
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -460,14 +404,6 @@
                         },
                         {
                           "text": " de Pastor Vega (1979) "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -487,14 +423,6 @@
                           "text": " de Gerardo Chijona (1991) "
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -510,14 +438,6 @@
                         },
                         {
                           "text": " de Juan Padrón (1985)"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -537,14 +457,6 @@
                           "text": " de Tomás Gutiérrez Alea y Juan Carlos Tabio (1995)"
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -560,14 +472,6 @@
                         },
                         {
                           "text": " de Fernando Pérez (1994) "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -587,14 +491,6 @@
                           "text": "de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)"
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -612,14 +508,6 @@
                           "text": " de Marilyn Solaya (2010)"
                         }
                       ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 },
@@ -635,14 +523,6 @@
                         },
                         {
                           "text": " de Fernando Pérez (2003)"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
                         }
                       ]
                     }
@@ -687,7 +567,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 100
             },
             {
               "type": "paragraph",
@@ -721,7 +602,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2026-03-27T00:29:06.976Z",
+  "updated_at": "2026-03-27T00:39:53.535Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
