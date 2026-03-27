@@ -17,6 +17,22 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -87,6 +103,15 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "¡Aviso Importante Acerca del Contenido!",
+                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/aviso-importante-acerca-del-contenido/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "El Cine Dentro de Cuba",
                   "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/"
                 }
@@ -113,11 +138,105 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Películas:",
-                  "underline": true,
-                  "bold": true
+                  "text": ""
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://media.cnn.com/api/v1/images/stellar/prod/180228171237-cines-cuba-tease.jpg?q=w_2362,h_2362,x_0,y_0,c_fill",
+              "caption": "(CNN)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "code-block",
+              "children": [
+                {
+                  "text": "Filmografía",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "center"
             },
             {
               "type": "numbered-list",
@@ -381,41 +500,25 @@
                           "text": " de Fernando Pérez (2003)"
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
                     {
-                      "type": "list-item",
+                      "type": "paragraph",
                       "children": [
                         {
-                          "type": "paragraph",
-                          "children": [
-                            {
-                              "text": "Conducta",
-                              "italic": true
-                            },
-                            {
-                              "text": " de Ernesto Daranas (2014)"
-                            }
-                          ]
+                          "text": "Conducta",
+                          "italic": true
+                        },
+                        {
+                          "text": " de Ernesto Daranas (2014)"
                         }
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n"
                 }
               ]
             }
@@ -434,31 +537,12 @@
             },
             {
               "type": "image",
-              "url": "https://media.cnn.com/api/v1/images/stellar/prod/180228171237-cines-cuba-tease.jpg?q=w_2362,h_2362,x_0,y_0,c_fill",
-              "caption": "(CNN)",
+              "url": "https://drive.google.com/file/d/1cxuhU3xpdg1umXWXEZuoSPBlcjnWfx_0/view?usp=sharing",
               "children": [
                 {
                   "text": ""
                 }
               ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/8451-/bfXZuQULMxfbFMHLrL5SpJXYhV6qqZ_original.jpg",
-              "children": [
-                {
-                  "text": ""
-                }
-              ],
-              "scale": 81
             },
             {
               "type": "paragraph",
@@ -469,14 +553,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -500,7 +576,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2026-03-27T00:12:24.850Z",
+  "updated_at": "2026-03-27T00:17:37.828Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
