@@ -73,6 +73,13 @@
                   "text": "Ensayos:",
                   "bold": true,
                   "underline": true
+                },
+                {
+                  "text": "\n"
+                },
+                {
+                  "text": "¿Quien es Lourdes Prieto?",
+                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/lourdes-prieto-1951-2021/"
                 }
               ]
             },
@@ -80,17 +87,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "bold": true,
-                  "underline": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "1. El Cine Dentro de Cuba",
+                  "text": "El Cine Dentro de Cuba",
                   "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/"
                 }
               ]
@@ -99,16 +96,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "link": "https://jackdevry.github.io/CubaEnPantalla/pages/el-cine-dentro-de-cuba/",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "2. Crisis en el Archivo",
+                  "text": "Crisis en el Archivo",
                   "link": "https://jackdevry.github.io/CubaEnPantalla/pages/crisis-en-el-archivo/"
                 }
               ]
@@ -512,7 +500,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2026-03-26T15:27:41.986Z",
+  "updated_at": "2026-03-27T00:12:24.850Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
