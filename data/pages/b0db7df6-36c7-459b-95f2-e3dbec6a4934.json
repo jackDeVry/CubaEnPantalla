@@ -82,10 +82,10 @@
   "created_by": "jackDeVry",
   "title": "Suite Habana de Fernando Pérez (2003)",
   "slug": "suite-habana-de-fernando-perez-2003",
-  "updated_at": "2025-08-07T15:18:47.023Z",
+  "updated_at": "2026-04-17T16:26:15.432Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "0f5640ba-fa23-4ee0-9422-4deb95b26896"
   }
