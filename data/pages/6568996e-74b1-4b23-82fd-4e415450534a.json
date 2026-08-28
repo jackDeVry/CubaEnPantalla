@@ -9,11 +9,8 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading-three",
       "children": [
-        {
-          "text": "\n\n\n"
-        },
         {
           "text": "Now",
           "italic": true
@@ -24,7 +21,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Year:",
+          "text": "Año:",
           "bold": true
         },
         {
@@ -38,7 +35,7 @@
           "text": " Santiago Álvarez\n"
         },
         {
-          "text": "Production:",
+          "text": "Producción:",
           "bold": true
         },
         {
@@ -50,7 +47,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Synopsis:",
+          "text": "Sinopsis:",
           "bold": true
         },
         {
@@ -61,7 +58,7 @@
           "italic": true
         },
         {
-          "text": " is a six-minute documentary montage confronting racism and racial violence in the United States during the Civil Rights Movement. Set entirely to Lena Horne’s performance of “Now,” Álvarez combines photographs, archival images, and graphic techniques depicting segregation, police violence, protests, lynching, and Black resistance. Without conventional narration, the film uses the rhythm of its editing and soundtrack to construct an urgent denunciation of racial injustice in the United States."
+          "text": " es un cortometraje documental de montaje que denuncia el racismo y la violencia racial en Estados Unidos durante el movimiento por los derechos civiles. Acompañado por la interpretación de Lena Horne de la canción “Now”, Álvarez combina fotografías, imágenes de archivo y recursos gráficos relacionados con la segregación, la violencia policial, los linchamientos, las protestas y la resistencia afroamericana. Sin recurrir a una narración convencional, la película construye su denuncia política mediante el ritmo de la edición, la música y el choque entre imágenes."
         }
       ]
     },
@@ -69,15 +66,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Importance within Cuban cinema history:",
+          "text": "Importancia dentro de la historia del cine cubano:",
           "bold": true
         },
         {
@@ -88,14 +77,7 @@
           "italic": true
         },
         {
-          "text": " is one of Santiago Álvarez’s most celebrated works and an important example of the radical montage aesthetic that became associated with revolutionary Cuban documentary. Produced largely from existing images rather than newly filmed footage, the film demonstrates how Álvarez transformed archival material, photography, music, and editing into a highly political cinematic language. Frequently described as a precursor to the modern music video, "
-        },
-        {
-          "text": "Now",
-          "italic": true
-        },
-        {
-          "text": " also illustrates the strongly internationalist orientation of ICAIC filmmaking, connecting Cuban revolutionary cinema to struggles against racism and inequality beyond the island. "
+          "text": " es una de las obras más reconocidas de Santiago Álvarez y uno de los ejemplos fundamentales de la estética de montaje asociada con el documental revolucionario cubano. La película demuestra cómo Álvarez podía transformar fotografías, materiales de archivo, música y edición en un lenguaje cinematográfico profundamente político. También refleja la dimensión internacionalista del cine producido por el ICAIC, vinculando el proyecto revolucionario cubano con luchas contra el racismo y la desigualdad fuera de la isla."
         }
       ]
     },
@@ -103,7 +85,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "\n"
         }
       ]
     },
@@ -120,7 +102,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Year:",
+          "text": "Año:",
           "bold": true
         },
         {
@@ -134,7 +116,7 @@
           "text": " Santiago Álvarez\n"
         },
         {
-          "text": "Production:",
+          "text": "Producción:",
           "bold": true
         },
         {
@@ -146,7 +128,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Synopsis:",
+          "text": "Sinopsis:",
           "bold": true
         },
         {
@@ -157,7 +139,7 @@
           "italic": true
         },
         {
-          "text": " documents the devastation caused by Hurricane Flora when it struck eastern Cuba in October 1963, particularly the provinces of Oriente and Camagüey. Drawing on footage recorded by several newsreel and television camera crews, Álvarez depicts flooded landscapes, destroyed communities, rescue efforts, evacuations, and the human consequences of the disaster. Rather than functioning simply as a record of the hurricane, the documentary uses montage, music, silence, and graphic elements to transform news footage into an emotionally charged account of catastrophe and collective response. "
+          "text": " documenta la devastación provocada por el huracán Flora a su paso por Cuba en octubre de 1963, particularmente en las provincias orientales del país. A partir de imágenes registradas por distintos equipos cinematográficos y televisivos, Álvarez muestra paisajes inundados, comunidades destruidas, labores de rescate, evacuaciones y las consecuencias humanas del desastre. Mediante el montaje, la música, el silencio y otros recursos visuales, el documental transforma el registro periodístico del huracán en una representación intensa de la catástrofe y de la respuesta colectiva ante ella."
         }
       ]
     },
@@ -165,15 +147,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Importance within Cuban cinema history:",
+          "text": "Importancia dentro de la historia del cine cubano:",
           "bold": true
         },
         {
@@ -184,14 +158,14 @@
           "italic": true
         },
         {
-          "text": " represents a major development in Santiago Álvarez’s filmmaking and in the evolution of the "
+          "text": " representa un momento importante en el desarrollo del lenguaje cinematográfico de Santiago Álvarez y en la evolución del "
         },
         {
           "text": "Noticiero ICAIC Latinoamericano",
           "italic": true
         },
         {
-          "text": ". The film moves beyond conventional news reporting by organizing documentary footage through experimental editing, sound, and visual rhythm. It is often identified as one of the works in which Álvarez began to establish the distinctive cinematic style that would characterize his later documentaries. At the same time, its focus on eastern Cuba provides an important visual record of the region during one of the most destructive natural disasters in modern Cuban history"
+          "text": ". La película trasciende el registro informativo convencional al organizar las imágenes mediante una edición experimental, el sonido y el ritmo visual. Es una de las obras tempranas en las que comienza a consolidarse el estilo que caracterizaría buena parte de la producción posterior de Álvarez y constituye, al mismo tiempo, un importante registro audiovisual del impacto del huracán Flora en el oriente cubano."
         }
       ]
     },
@@ -268,6 +242,6 @@
   "slug": "now-y-ciclon-de-santiago-alvarez-1965-y-19",
   "created_at": "2026-08-28T20:18:07.953Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:18:07.953Z",
+  "updated_at": "2026-08-28T20:22:56.526Z",
   "updated_by": "jackDeVry"
 }
