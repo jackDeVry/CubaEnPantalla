@@ -305,10 +305,12 @@
                       "children": [
                         {
                           "text": "Historias de la Revolución",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/historias-de-la-revolucion-de-tomas-gutierrez/"
                         },
                         {
-                          "text": " de Tomás Gutiérrez Alea (1960) "
+                          "text": " de Tomás Gutiérrez Alea (1960) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/historias-de-la-revolucion-de-tomas-gutierrez/"
                         }
                       ]
                     }
@@ -322,10 +324,12 @@
                       "children": [
                         {
                           "text": "Por Primera Vez",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/por-primera-vez-de-octavio-cortazar-1967/"
                         },
                         {
-                          "text": " de Octavio Cortázar (1967) "
+                          "text": " de Octavio Cortázar (1967) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/por-primera-vez-de-octavio-cortazar-1967/"
                         }
                       ]
                     }
@@ -339,17 +343,21 @@
                       "children": [
                         {
                           "text": "Now",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/now-y-ciclon-de-santiago-alvarez-1965-y-19/"
                         },
                         {
-                          "text": " y "
+                          "text": " y ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/now-y-ciclon-de-santiago-alvarez-1965-y-19/"
                         },
                         {
                           "text": "Ciclón",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/now-y-ciclon-de-santiago-alvarez-1965-y-19/"
                         },
                         {
-                          "text": " de Santiago Álvarez (1965) y (1963)"
+                          "text": " de Santiago Álvarez (1965) y (1963)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/now-y-ciclon-de-santiago-alvarez-1965-y-19/"
                         }
                       ]
                     }
@@ -363,10 +371,12 @@
                       "children": [
                         {
                           "text": "Nosotros la Música",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/nosotros-la-musica-de-rogelio-paris-1964/"
                         },
                         {
-                          "text": " de Rogelio París (1964)"
+                          "text": " de Rogelio París (1964)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/nosotros-la-musica-de-rogelio-paris-1964/"
                         }
                       ]
                     }
@@ -380,10 +390,12 @@
                       "children": [
                         {
                           "text": "Memorias del Subdesarrollo",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/memorias-del-subdesarrollo-de-tomas-gutierrez/"
                         },
                         {
-                          "text": " de Tomás Gutiérrez Alea (1968) "
+                          "text": " de Tomás Gutiérrez Alea (1968) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/memorias-del-subdesarrollo-de-tomas-gutierrez/"
                         }
                       ]
                     }
@@ -397,10 +409,12 @@
                       "children": [
                         {
                           "text": "Operación de Peter Pan ",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/operacion-de-peter-pan-de-estela-bravo-2010/"
                         },
                         {
-                          "text": "de Estela Bravo (2010) "
+                          "text": "de Estela Bravo (2010) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/operacion-de-peter-pan-de-estela-bravo-2010/"
                         }
                       ]
                     }
@@ -414,10 +428,12 @@
                       "children": [
                         {
                           "text": "Lucía",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/lucia-de-humberto-solas-1968/"
                         },
                         {
-                          "text": " de Humberto Solás (1968) "
+                          "text": " de Humberto Solás (1968) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/lucia-de-humberto-solas-1968/"
                         }
                       ]
                     }
@@ -431,10 +447,12 @@
                       "children": [
                         {
                           "text": "Retrato de Teresa",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/retrato-de-teresa-de-pastor-vega-1979/"
                         },
                         {
-                          "text": " de Pastor Vega (1979) "
+                          "text": " de Pastor Vega (1979) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/retrato-de-teresa-de-pastor-vega-1979/"
                         }
                       ]
                     }
@@ -448,10 +466,12 @@
                       "children": [
                         {
                           "text": "Adorables Mentiras",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/adorables-mentiras-de-gerardo-chijona-1991/"
                         },
                         {
-                          "text": " de Gerardo Chijona (1991) "
+                          "text": " de Gerardo Chijona (1991) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/adorables-mentiras-de-gerardo-chijona-1991/"
                         }
                       ]
                     }
@@ -465,10 +485,12 @@
                       "children": [
                         {
                           "text": "Vampiros en La Habana",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/vampiros-en-la-habana-de-juan-padron-1985/"
                         },
                         {
-                          "text": " de Juan Padrón (1985)"
+                          "text": " de Juan Padrón (1985)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/vampiros-en-la-habana-de-juan-padron-1985/"
                         }
                       ]
                     }
@@ -482,10 +504,12 @@
                       "children": [
                         {
                           "text": "Guantanamera",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/guantanamera-de-tomas-gutierrez-alea-y-juan-c/"
                         },
                         {
-                          "text": " de Tomás Gutiérrez Alea y Juan Carlos Tabio (1995)"
+                          "text": " de Tomás Gutiérrez Alea y Juan Carlos Tabio (1995)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/guantanamera-de-tomas-gutierrez-alea-y-juan-c/"
                         }
                       ]
                     }
@@ -499,10 +523,12 @@
                       "children": [
                         {
                           "text": "Madagascar",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/madagascar-de-fernando-perez-1994/"
                         },
                         {
-                          "text": " de Fernando Pérez (1994) "
+                          "text": " de Fernando Pérez (1994) ",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/madagascar-de-fernando-perez-1994/"
                         }
                       ]
                     }
@@ -516,10 +542,12 @@
                       "children": [
                         {
                           "text": "Fresa y Chocolate ",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/fresa-y-chocolate-de-tomas-gutierrez-alea-y-j/"
                         },
                         {
-                          "text": "de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)"
+                          "text": "de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/fresa-y-chocolate-de-tomas-gutierrez-alea-y-j/"
                         }
                       ]
                     }
@@ -533,10 +561,12 @@
                       "children": [
                         {
                           "text": "En el Cuerpo Equivocado",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/en-el-cuerpo-equivocado-de-marilyn-solaya-20/"
                         },
                         {
-                          "text": " de Marilyn Solaya (2010)"
+                          "text": " de Marilyn Solaya (2010)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/en-el-cuerpo-equivocado-de-marilyn-solaya-20/"
                         }
                       ]
                     }
@@ -550,10 +580,12 @@
                       "children": [
                         {
                           "text": "Suite Habana",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/suite-habana-de-fernando-perez-2003-2/"
                         },
                         {
-                          "text": " de Fernando Pérez (2003)"
+                          "text": " de Fernando Pérez (2003)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/suite-habana-de-fernando-perez-2003-2/"
                         }
                       ]
                     }
@@ -567,10 +599,12 @@
                       "children": [
                         {
                           "text": "Conducta",
-                          "italic": true
+                          "italic": true,
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/conducta-de-ernesto-daranas-2014/"
                         },
                         {
-                          "text": " de Ernesto Daranas (2014)"
+                          "text": " de Ernesto Daranas (2014)",
+                          "link": "https://jackdevry.github.io/CubaEnPantalla/pages/conducta-de-ernesto-daranas-2014/"
                         }
                       ]
                     }
@@ -633,7 +667,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2026-03-27T02:41:06.015Z",
+  "updated_at": "2026-08-28T20:56:41.219Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
