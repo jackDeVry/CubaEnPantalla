@@ -4,7 +4,117 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Fresa y chocolate",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1993\n"
+        },
+        {
+          "text": "Directores:",
+          "bold": true
+        },
+        {
+          "text": " Tomás Gutiérrez Alea y Juan Carlos Tabío\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " ICAIC, IMCINE, Tabasco Films, Telemadrid y SGAE"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nDavid, un joven universitario comprometido con la Revolución, conoce a Diego, un intelectual homosexual interesado en el arte, la literatura y la cultura cubana. Inicialmente, David desconfía de Diego y acepta observarlo por considerarlo ideológicamente sospechoso. Sin embargo, sus encuentros dan paso a una amistad que obliga a ambos personajes a cuestionar sus prejuicios, convicciones y formas de comprender la sociedad cubana."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Fresa y chocolate",
+          "italic": true
+        },
+        {
+          "text": " abrió un espacio excepcional para discutir públicamente la homofobia, la intolerancia ideológica, la censura y los límites de la inclusión dentro del proyecto revolucionario. Su enorme éxito nacional e internacional amplió considerablemente la visibilidad mundial del cine cubano. Fue además la primera película presentada por Cuba que recibió una nominación al Óscar a Mejor Película Extranjera, convirtiéndose en uno de los títulos cubanos de mayor reconocimiento internacional."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "d88db5ba-d671-4dd8-bf54-43bd97e33f26",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -17,6 +127,6 @@
   "slug": "fresa-y-chocolate-de-tomas-gutierrez-alea-y-j",
   "created_at": "2026-08-28T20:28:45.604Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:28:45.604Z",
+  "updated_at": "2026-08-28T20:36:40.518Z",
   "updated_by": "jackDeVry"
 }
