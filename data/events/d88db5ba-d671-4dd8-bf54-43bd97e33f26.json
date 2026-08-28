@@ -4,7 +4,7 @@
       "label": "Fresa y Chocolate de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://m.ok.ru/video/1648761965162",
+      "file_url": "https://ia800606.us.archive.org/34/items/fresa-y-chocolate-1993/Fresa-y-chocolate-1993.mp4",
       "duration": 6266
     }
   },
@@ -12,6 +12,9 @@
   "label": "Fresa y Chocolate de Tomás Gutiérrez Alea y Juan Carlos Tabio (1993)",
   "created_at": "2025-07-28T19:14:47.261Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-28T19:14:47.261Z",
-  "updated_by": "jackDeVry"
+  "updated_at": "2026-08-28T18:24:16.860Z",
+  "updated_by": "jackDeVry",
+  "av_file_order": [
+    "dcc10c41-16f6-44d5-a124-0923a3ce96e3"
+  ]
 }
