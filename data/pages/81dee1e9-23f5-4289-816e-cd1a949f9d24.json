@@ -5,7 +5,12 @@
       "children": [
         {
           "text": "\n"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "Year:",
           "bold": true
@@ -21,46 +26,11 @@
           "text": " Octavio Cortázar\n"
         },
         {
-          "text": "Genre:",
-          "bold": true
-        },
-        {
-          "text": " Documentary short\n"
-        },
-        {
           "text": "Production:",
           "bold": true
         },
         {
-          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)\n"
-        },
-        {
-          "text": "Cinematography:",
-          "bold": true
-        },
-        {
-          "text": " José López (Lopito)\n"
-        },
-        {
-          "text": "Editing:",
-          "bold": true
-        },
-        {
-          "text": " Caíta Villalón\n"
-        },
-        {
-          "text": "Music:",
-          "bold": true
-        },
-        {
-          "text": " Raúl Gómez\n"
-        },
-        {
-          "text": "Runtime:",
-          "bold": true
-        },
-        {
-          "text": " Approximately 9–10 minutes"
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
         }
       ]
     },
@@ -79,14 +49,14 @@
           "italic": true
         },
         {
-          "text": " follows an ICAIC mobile cinema unit as it travels into the mountains of eastern Cuba to bring a film screening to the rural community of Los Mulos, near Baracoa. Many of the residents interviewed by Cortázar have never seen a motion picture and describe what they imagine cinema might be. The documentary culminates with the community watching Charlie Chaplin’s "
+          "text": " follows an ICAIC mobile cinema unit as it travels to the rural community of Los Mulos, near Baracoa, to screen a film for residents who had never before experienced cinema. Before the screening, Cortázar interviews members of the community about what they imagine cinema to be. The film culminates with a screening of Charlie Chaplin’s "
         },
         {
           "text": "Modern Times",
           "italic": true
         },
         {
-          "text": " (1936), focusing closely on the faces, laughter, and reactions of children and adults experiencing cinema for the first time. citeturn824980search2turn824980search5"
+          "text": " (1936), focusing on the spectators’ expressions, laughter, and reactions as they encounter moving images for the first time."
         }
       ]
     },
@@ -98,7 +68,14 @@
           "bold": true
         },
         {
-          "text": "\nThe film has become one of the most enduring representations of ICAIC’s efforts during the 1960s to expand access to cinema beyond Cuba’s urban centers. The Mobile Cinema program, established in the early years after the Revolution, transported projectors and films to isolated rural communities that had little or no access to movie theaters. citeturn824980search4"
+          "text": "\n"
+        },
+        {
+          "text": "Por primera vez",
+          "italic": true
+        },
+        {
+          "text": " is one of the most iconic documentaries of early revolutionary Cuban cinema and a key record of ICAIC’s Mobile Cinema program. The film reflects the institution’s effort to expand access to cinema beyond Havana and other urban centers, particularly into isolated rural communities. By making spectatorship itself the subject of the documentary, Cortázar also captures an important ideal of early ICAIC: cinema as a cultural form that could reach new publics across the island and participate in the broader transformation of Cuban society."
         }
       ]
     },
@@ -106,14 +83,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Beyond documenting that cultural project, "
-        },
-        {
-          "text": "Por primera vez",
-          "italic": true
-        },
-        {
-          "text": " is significant for the way it turns spectatorship itself into its subject. Rather than concentrating primarily on the film being projected, Cortázar records the anticipation and reactions of its new spectators. The result captures both the extraordinary novelty of cinema for these communities and an important ambition of early revolutionary Cuban film culture: to imagine cinema as something that could reach audiences across the entire island, including its most geographically marginalized regions."
+          "text": ""
         }
       ]
     },
@@ -155,6 +125,6 @@
   "slug": "por-primera-vez-de-octavio-cortazar-1967",
   "created_at": "2026-08-28T20:14:13.597Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:14:13.597Z",
+  "updated_at": "2026-08-28T20:15:47.134Z",
   "updated_by": "jackDeVry"
 }
