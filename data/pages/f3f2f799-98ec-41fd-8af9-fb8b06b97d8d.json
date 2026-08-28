@@ -4,7 +4,117 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "En el cuerpo equivocado",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 2010\n"
+        },
+        {
+          "text": "Directora:",
+          "bold": true
+        },
+        {
+          "text": " Marilyn Solaya\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nEl documental sigue a Mavi Susel, quien en 1988 se convirtió en la primera persona trans en Cuba en someterse a una cirugía de reasignación sexual. Más de veinte años después, Mavi reflexiona sobre su vida y sobre la forma en que construyó su identidad femenina dentro de una sociedad marcada por estereotipos de género, el machismo y determinadas expectativas sobre lo que significa ser mujer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "En el cuerpo equivocado",
+          "italic": true
+        },
+        {
+          "text": " introdujo de manera directa cuestiones de identidad trans, género y construcción de la feminidad dentro del documental cubano. En lugar de limitarse a narrar la experiencia médica de su protagonista, Marilyn Solaya utiliza su historia para interrogar las estructuras sociales y culturales que definen el género. La película amplía así las discusiones del cine cubano sobre sexualidad, identidad y los límites de las normas sociales."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "2c8b97ca-06bc-4d39-916c-78750224cbbf",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -17,6 +127,6 @@
   "slug": "en-el-cuerpo-equivocado-de-marilyn-solaya-20",
   "created_at": "2026-08-28T20:28:59.645Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:28:59.645Z",
+  "updated_at": "2026-08-28T20:37:15.665Z",
   "updated_by": "jackDeVry"
 }
