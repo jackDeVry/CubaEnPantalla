@@ -4,6 +4,115 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Lucía",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1968\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Humberto Solás\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Lucía",
+          "italic": true
+        },
+        {
+          "text": " está compuesta por tres historias protagonizadas por tres mujeres del mismo nombre en momentos diferentes de la historia cubana. El primer episodio transcurre durante la Guerra de Independencia de 1895; el segundo, durante las luchas contra la dictadura de Gerardo Machado en la década de 1930; y el tercero, en los años posteriores al triunfo de la Revolución. Cada historia examina las relaciones entre la experiencia personal de sus protagonistas y los grandes procesos políticos y sociales de su época."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Lucía",
+          "italic": true
+        },
+        {
+          "text": " es una de las obras monumentales del cine revolucionario cubano y del Nuevo Cine Latinoamericano. A través de sus tres protagonistas, Humberto Solás reconstruye diferentes momentos de la historia nacional desde las experiencias de las mujeres, relacionando las luchas políticas con cuestiones de género, clase y poder. Cada episodio desarrolla además un estilo visual diferente, convirtiendo la experimentación formal en una parte fundamental de la reflexión histórica de la película."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "eae63833-69a0-47a9-a1f7-5eb44ba07276",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +126,6 @@
   "slug": "lucia-de-humberto-solas-1968",
   "created_at": "2026-08-28T20:27:14.211Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:27:14.211Z",
+  "updated_at": "2026-08-28T20:31:06.549Z",
   "updated_by": "jackDeVry"
 }
