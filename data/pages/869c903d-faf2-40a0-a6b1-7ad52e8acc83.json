@@ -4,6 +4,100 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Operación Peter Pan: cerrando el círculo en Cuba",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 2010\n"
+        },
+        {
+          "text": "Directora:",
+          "bold": true
+        },
+        {
+          "text": " Estela Bravo\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Ernesto Bravo"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nEl documental examina la Operación Peter Pan, mediante la cual más de 14 000 menores cubanos viajaron sin sus padres a Estados Unidos entre 1960 y 1962. A través de testimonios, materiales de archivo y recuerdos personales, Estela Bravo reconstruye las experiencias de quienes participaron en aquel éxodo. La película presta particular atención al regreso a Cuba en 2009 de un grupo de aquellos niños, ya adultos, que vuelven a la isla para enfrentarse a su pasado y reencontrarse con lugares y recuerdos de su infancia."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Operación Peter Pan",
+          "italic": true
+        },
+        {
+          "text": " aborda uno de los episodios más significativos y controvertidos de las primeras migraciones posteriores a la Revolución. Al privilegiar la memoria y los testimonios de sus protagonistas, el documental conecta la historia política entre Cuba y Estados Unidos con experiencias íntimas de separación, exilio, familia y regreso. La obra forma parte de una importante tradición documental cubana dedicada a investigar las consecuencias humanas de la migración y las divisiones políticas entre la isla y su diáspora. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "237cc446-fc02-45f3-a263-837d82fc9c16",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +111,6 @@
   "slug": "operacion-de-peter-pan-de-estela-bravo-2010",
   "created_at": "2026-08-28T20:26:58.639Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:26:58.639Z",
+  "updated_at": "2026-08-28T20:30:34.887Z",
   "updated_by": "jackDeVry"
 }
