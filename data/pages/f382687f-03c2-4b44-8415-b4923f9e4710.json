@@ -4,6 +4,108 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Retrato de Teresa",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1979\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Pastor Vega\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nTeresa es una trabajadora, madre y esposa que intenta conciliar sus responsabilidades familiares con una creciente participación en la vida cultural de su centro de trabajo. Su esposo, Ramón, espera que ella continúe asumiendo prácticamente todas las tareas domésticas y reacciona con celos ante su independencia. El conflicto entre ambos expone las contradicciones entre los ideales de igualdad promovidos por la Revolución y la persistencia del machismo dentro de la vida cotidiana."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Retrato de Teresa",
+          "italic": true
+        },
+        {
+          "text": " provocó uno de los debates públicos más importantes sobre género y vida doméstica en el cine cubano revolucionario. La película cuestiona la idea de que la incorporación de las mujeres al trabajo y a la vida pública haya eliminado automáticamente las desigualdades dentro del hogar. Su enorme recepción popular convirtió las tensiones entre emancipación femenina, matrimonio, trabajo doméstico y machismo en temas de discusión nacional y consolidó a Teresa como uno de los personajes femeninos más importantes del cine cubano."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "e1e2aee9-b0e7-44b9-a783-7262ee0babbb",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +119,6 @@
   "slug": "retrato-de-teresa-de-pastor-vega-1979",
   "created_at": "2026-08-28T20:27:30.438Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:27:30.438Z",
+  "updated_at": "2026-08-28T20:32:11.647Z",
   "updated_by": "jackDeVry"
 }
