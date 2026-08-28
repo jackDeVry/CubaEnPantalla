@@ -66,6 +66,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Importancia dentro de la historia del cine cubano:",
           "bold": true
         },
@@ -118,6 +126,6 @@
   "slug": "nosotros-la-musica-de-rogelio-paris-1964",
   "created_at": "2026-08-28T20:25:50.945Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:29:51.964Z",
+  "updated_at": "2026-08-28T20:51:27.367Z",
   "updated_by": "jackDeVry"
 }
