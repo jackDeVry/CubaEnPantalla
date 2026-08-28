@@ -4,6 +4,108 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Vampiros en La Habana",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1985\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Juan Padrón\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " ICAIC, Televisión Española y Durniok Producciones"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nEl científico Werner Amadeus von Drácula desarrolla en La Habana una fórmula, llamada Vampisol, que permite a los vampiros caminar bajo la luz del sol. Su sobrino Pepito, un joven trompetista involucrado en la lucha contra la dictadura de Gerardo Machado, se convierte inesperadamente en el centro de una batalla entre organizaciones de vampiros estadounidenses y europeas que buscan controlar la fórmula y sus beneficios económicos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Vampiros en La Habana",
+          "italic": true
+        },
+        {
+          "text": " es una de las películas de animación más emblemáticas del cine cubano. Juan Padrón combina el cine de vampiros, la comedia, la música popular y la sátira política para crear una obra dirigida tanto al público juvenil como adulto. La película demuestra la capacidad de la animación cubana para desarrollar universos narrativos complejos y utilizar el humor para comentar sobre el capitalismo, el imperialismo, la política y la propia historia de Cuba."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "ff7c61e2-6684-440c-bba8-eeeebce8efd6",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +119,6 @@
   "slug": "vampiros-en-la-habana-de-juan-padron-1985",
   "created_at": "2026-08-28T20:28:01.454Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:28:01.454Z",
+  "updated_at": "2026-08-28T20:34:05.129Z",
   "updated_by": "jackDeVry"
 }
