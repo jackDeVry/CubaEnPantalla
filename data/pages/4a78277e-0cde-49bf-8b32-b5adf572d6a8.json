@@ -1,0 +1,123 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Nosotros, la música",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1964\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Rogelio París\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Nosotros, la música",
+          "italic": true
+        },
+        {
+          "text": " ofrece un amplio recorrido por la música, el canto y el baile popular cubanos. Combinando actuaciones preparadas con escenas registradas en calles, clubes, hogares y otros espacios, el documental reúne a figuras fundamentales como Bola de Nieve, Celeste Mendoza, Elena Burke, el Septeto Nacional Ignacio Piñeiro y la Orquesta de Chappottín, entre muchos otros. El resultado es un retrato dinámico de la diversidad musical cubana durante los primeros años de la década de 1960."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\nLa película constituye uno de los grandes archivos audiovisuales de la música popular cubana del siglo XX. Al registrar intérpretes, agrupaciones, bailes y prácticas musicales en sus propios espacios sociales, Rogelio París convirtió el documental en una herramienta de preservación de la memoria cultural. "
+        },
+        {
+          "text": "Nosotros, la música",
+          "italic": true
+        },
+        {
+          "text": " también destaca por integrar música, movimiento y montaje como elementos centrales de su lenguaje cinematográfico, estableciendo una importante relación entre el cine documental del ICAIC y el patrimonio musical cubano. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "32efbfbd-5ff6-424f-882e-4e9884e847eb",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Nosotros la Música de Rogelio París (1964)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "nosotros-la-musica-de-rogelio-paris-1964",
+  "created_at": "2026-08-28T20:25:50.945Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-28T20:25:50.945Z",
+  "updated_by": "jackDeVry"
+}
