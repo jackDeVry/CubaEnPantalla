@@ -4,7 +4,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Historias de la Revolución",
+          "italic": true
         }
       ]
     },
@@ -12,7 +21,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Year:",
+          "text": "Año:",
           "bold": true
         },
         {
@@ -26,7 +35,7 @@
           "text": " Tomás Gutiérrez Alea\n"
         },
         {
-          "text": "Production:",
+          "text": "Producción:",
           "bold": true
         },
         {
@@ -38,18 +47,18 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Synopsis:",
+          "text": "Sinopsis:",
           "bold": true
         },
         {
-          "text": "\nStructured in three episodes, “El herido,” “Rebeldes,” and “La batalla de Santa Clara,” "
+          "text": "\nEstructurada en tres episodios, “El herido”, “Rebeldes” y “La batalla de Santa Clara”, "
         },
         {
           "text": "Historias de la Revolución",
           "italic": true
         },
         {
-          "text": " depicts different stages of the armed struggle against the dictatorship of Fulgencio Batista. Moving from clandestine resistance in Havana to guerrilla warfare in the Sierra Maestra and finally the revolutionary victory at Santa Clara, the film constructs an early cinematic account of the events leading to the triumph of the Cuban Revolution in 1959. "
+          "text": " representa distintos momentos de la lucha armada contra la dictadura de Fulgencio Batista. La película se desplaza desde la resistencia clandestina en La Habana hasta la guerra guerrillera en la Sierra Maestra y, finalmente, la victoria revolucionaria en Santa Clara, construyendo uno de los primeros relatos cinematográficos sobre los acontecimientos que condujeron al triunfo de la Revolución Cubana en 1959."
         }
       ]
     },
@@ -65,7 +74,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Importance within Cuban cinema history:",
+          "text": "Importancia dentro de la historia del cine cubano:",
           "bold": true
         },
         {
@@ -76,7 +85,7 @@
           "italic": true
         },
         {
-          "text": " occupies a foundational place in post-1959 Cuban cinema as the first fiction feature produced by the newly created ICAIC. Released on December 30, 1960, it helped establish cinema as an important means through which the Revolution would represent and interpret its own recent history. The film also marked an early milestone for the emerging revolutionary film industry internationally, receiving a prize from the Union of Soviet Writers at the Moscow International Film Festival. It anticipates the central role that Gutiérrez Alea would play in the development of Cuban cinema, while also illustrating the close relationship between filmmaking, historical memory, and the revolutionary project during ICAIC's earliest years. "
+          "text": " ocupa un lugar fundacional en el cine cubano posterior a 1959 al ser el primer largometraje de ficción producido por el recién creado ICAIC. La película contribuyó a establecer el cine como un medio fundamental para representar e interpretar la historia reciente de la Revolución. También anticipó el papel central que Tomás Gutiérrez Alea desempeñaría en el desarrollo del cine cubano y ejemplifica la estrecha relación entre cine, memoria histórica y proyecto revolucionario durante los primeros años del ICAIC."
         }
       ]
     },
@@ -125,6 +134,6 @@
   "slug": "historias-de-la-revolucion-de-tomas-gutierrez",
   "created_at": "2026-08-28T19:06:22.293Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:12:46.793Z",
+  "updated_at": "2026-08-28T20:21:46.061Z",
   "updated_by": "jackDeVry"
 }
