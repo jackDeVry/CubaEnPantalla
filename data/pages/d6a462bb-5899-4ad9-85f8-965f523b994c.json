@@ -1,0 +1,116 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Memorias del subdesarrollo",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1968\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Tomás Gutiérrez Alea\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nSergio, un intelectual burgués, decide permanecer en Cuba después de que su esposa, familiares y amigos abandonan el país tras el triunfo de la Revolución. Mientras recorre La Habana y observa las transformaciones sociales que ocurren a su alrededor, reflexiona sobre sus relaciones personales, su aislamiento y lo que considera el “subdesarrollo” de la sociedad cubana. La película combina su experiencia personal con fotografías, documentos y materiales de archivo vinculados con los primeros años de la Revolución y la Crisis de los Misiles."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\nConsiderada una de las obras fundamentales del cine cubano y latinoamericano, "
+        },
+        {
+          "text": "Memorias del subdesarrollo",
+          "italic": true
+        },
+        {
+          "text": " desarrolló un lenguaje cinematográfico innovador que combina ficción, documental, archivo, montaje y reflexión subjetiva. En lugar de ofrecer una visión sencilla de la Revolución, Gutiérrez Alea construye un protagonista contradictorio y utiliza su mirada para explorar cuestiones de clase, identidad, transformación social y pertenencia. Su complejidad formal y política la convirtió en una referencia central del Nuevo Cine Latinoamericano."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "42bd0bca-413f-473b-aec2-20c666ec2077",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Memorias del Subdesarrollo de Tomás Gutiérrez Alea (1968) ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "memorias-del-subdesarrollo-de-tomas-gutierrez",
+  "created_at": "2026-08-28T20:26:39.718Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-28T20:26:39.718Z",
+  "updated_by": "jackDeVry"
+}
