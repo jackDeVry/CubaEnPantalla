@@ -1,0 +1,160 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Year:",
+          "bold": true
+        },
+        {
+          "text": " 1967\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Octavio Cortázar\n"
+        },
+        {
+          "text": "Genre:",
+          "bold": true
+        },
+        {
+          "text": " Documentary short\n"
+        },
+        {
+          "text": "Production:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)\n"
+        },
+        {
+          "text": "Cinematography:",
+          "bold": true
+        },
+        {
+          "text": " José López (Lopito)\n"
+        },
+        {
+          "text": "Editing:",
+          "bold": true
+        },
+        {
+          "text": " Caíta Villalón\n"
+        },
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " Raúl Gómez\n"
+        },
+        {
+          "text": "Runtime:",
+          "bold": true
+        },
+        {
+          "text": " Approximately 9–10 minutes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Synopsis:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Por primera vez",
+          "italic": true
+        },
+        {
+          "text": " follows an ICAIC mobile cinema unit as it travels into the mountains of eastern Cuba to bring a film screening to the rural community of Los Mulos, near Baracoa. Many of the residents interviewed by Cortázar have never seen a motion picture and describe what they imagine cinema might be. The documentary culminates with the community watching Charlie Chaplin’s "
+        },
+        {
+          "text": "Modern Times",
+          "italic": true
+        },
+        {
+          "text": " (1936), focusing closely on the faces, laughter, and reactions of children and adults experiencing cinema for the first time. citeturn824980search2turn824980search5"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importance within Cuban cinema history:",
+          "bold": true
+        },
+        {
+          "text": "\nThe film has become one of the most enduring representations of ICAIC’s efforts during the 1960s to expand access to cinema beyond Cuba’s urban centers. The Mobile Cinema program, established in the early years after the Revolution, transported projectors and films to isolated rural communities that had little or no access to movie theaters. citeturn824980search4"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Beyond documenting that cultural project, "
+        },
+        {
+          "text": "Por primera vez",
+          "italic": true
+        },
+        {
+          "text": " is significant for the way it turns spectatorship itself into its subject. Rather than concentrating primarily on the film being projected, Cortázar records the anticipation and reactions of its new spectators. The result captures both the extraordinary novelty of cinema for these communities and an important ambition of early revolutionary Cuban film culture: to imagine cinema as something that could reach audiences across the entire island, including its most geographically marginalized regions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "28720ee7-db98-4aea-a985-50b7bcf54bf3",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Por Primera Vez de Octavio Cortázar (1967) ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "por-primera-vez-de-octavio-cortazar-1967",
+  "created_at": "2026-08-28T20:14:13.597Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-28T20:14:13.597Z",
+  "updated_by": "jackDeVry"
+}
