@@ -4,6 +4,108 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Guantanamera",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1995\n"
+        },
+        {
+          "text": "Directores:",
+          "bold": true
+        },
+        {
+          "text": " Tomás Gutiérrez Alea y Juan Carlos Tabío\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " ICAIC y coproducción internacional con España y Alemania"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nTras la muerte inesperada de Yoyita durante una visita a Guantánamo, sus familiares deben trasladar su cuerpo hasta La Habana siguiendo un nuevo sistema estatal para el transporte de cadáveres. El cortejo fúnebre atraviesa Cuba y coincide repetidamente con Mariano, un camionero que viaja por la isla. El recorrido genera encuentros, reencuentros y situaciones absurdas que permiten observar diferentes aspectos de la sociedad cubana de la década de 1990."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\nÚltima película dirigida por Tomás Gutiérrez Alea, "
+        },
+        {
+          "text": "Guantanamera",
+          "italic": true
+        },
+        {
+          "text": " recupera la tradición de sátira social que había marcado buena parte de su filmografía. Mediante la estructura de una película de carretera y un cortejo fúnebre que atraviesa el país, Gutiérrez Alea y Tabío critican la burocracia, la escasez, las ineficiencias institucionales y las dificultades de la vida cotidiana durante el Período Especial. La película funciona también como un recorrido geográfico y social por una Cuba profundamente marcada por la crisis económica de los años noventa. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "db5d2ee8-9909-4725-aabe-f78b79e29580",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +119,6 @@
   "slug": "guantanamera-de-tomas-gutierrez-alea-y-juan-c",
   "created_at": "2026-08-28T20:28:15.783Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:28:15.783Z",
+  "updated_at": "2026-08-28T20:34:35.469Z",
   "updated_by": "jackDeVry"
 }
