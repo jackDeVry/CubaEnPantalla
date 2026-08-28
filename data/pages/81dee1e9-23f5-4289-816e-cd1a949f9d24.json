@@ -4,7 +4,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Por primera vez",
+          "italic": true
         }
       ]
     },
@@ -12,7 +21,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Year:",
+          "text": "Año:",
           "bold": true
         },
         {
@@ -26,7 +35,7 @@
           "text": " Octavio Cortázar\n"
         },
         {
-          "text": "Production:",
+          "text": "Producción:",
           "bold": true
         },
         {
@@ -38,7 +47,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Synopsis:",
+          "text": "Sinopsis:",
           "bold": true
         },
         {
@@ -49,14 +58,14 @@
           "italic": true
         },
         {
-          "text": " follows an ICAIC mobile cinema unit as it travels to the rural community of Los Mulos, near Baracoa, to screen a film for residents who had never before experienced cinema. Before the screening, Cortázar interviews members of the community about what they imagine cinema to be. The film culminates with a screening of Charlie Chaplin’s "
+          "text": " acompaña a una unidad de cine móvil del ICAIC en su viaje hasta la comunidad rural de Los Mulos, cerca de Baracoa, para proyectar una película ante habitantes que nunca antes habían visto cine. Antes de la función, Cortázar entrevista a varios miembros de la comunidad sobre lo que imaginan que es el cine. El documental culmina con la proyección de "
         },
         {
           "text": "Modern Times",
           "italic": true
         },
         {
-          "text": " (1936), focusing on the spectators’ expressions, laughter, and reactions as they encounter moving images for the first time."
+          "text": " (1936), de Charlie Chaplin, concentrándose en los rostros, las risas y las reacciones del público ante su primer encuentro con las imágenes cinematográficas."
         }
       ]
     },
@@ -64,7 +73,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Importance within Cuban cinema history:",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
           "bold": true
         },
         {
@@ -75,7 +92,7 @@
           "italic": true
         },
         {
-          "text": " is one of the most iconic documentaries of early revolutionary Cuban cinema and a key record of ICAIC’s Mobile Cinema program. The film reflects the institution’s effort to expand access to cinema beyond Havana and other urban centers, particularly into isolated rural communities. By making spectatorship itself the subject of the documentary, Cortázar also captures an important ideal of early ICAIC: cinema as a cultural form that could reach new publics across the island and participate in the broader transformation of Cuban society."
+          "text": " es uno de los documentales más emblemáticos del cine revolucionario cubano de los años sesenta y un importante registro del programa de Cine Móvil del ICAIC. La película refleja el esfuerzo institucional por ampliar el acceso al cine más allá de La Habana y otros centros urbanos, particularmente hacia comunidades rurales aisladas. Al convertir la experiencia de los espectadores en el centro del documental, Cortázar también captura uno de los ideales fundamentales del ICAIC temprano: concebir el cine como una práctica cultural capaz de llegar a nuevos públicos a lo largo de toda la isla."
         }
       ]
     },
@@ -125,6 +142,6 @@
   "slug": "por-primera-vez-de-octavio-cortazar-1967",
   "created_at": "2026-08-28T20:14:13.597Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:15:47.134Z",
+  "updated_at": "2026-08-28T20:22:13.606Z",
   "updated_by": "jackDeVry"
 }
