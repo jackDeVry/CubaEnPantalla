@@ -4,7 +4,117 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Madagascar",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1994\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Fernando Pérez\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nLaura, una profesora universitaria que atraviesa una profunda crisis personal, siente que ha perdido su capacidad de soñar. Su hija adolescente, Laurita, responde al mundo que la rodea de manera muy distinta y desarrolla fantasías sobre escapar y viajar a lugares lejanos, entre ellos Madagascar. Las tensiones entre madre e hija sirven como punto de partida para explorar la incertidumbre, el agotamiento y las dificultades de la vida cubana durante los años más duros del Período Especial."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Madagascar",
+          "italic": true
+        },
+        {
+          "text": " es una de las películas fundamentales del cine cubano de la década de 1990. Fernando Pérez abandona buena parte del realismo narrativo convencional para construir una obra subjetiva, fragmentaria y poética que expresa la crisis económica también como una crisis emocional y existencial. La película marcó un importante giro en la filmografía de Pérez y abrió nuevas posibilidades estéticas para representar cinematográficamente la experiencia del Período Especial."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "4f550da1-931f-4c0e-a21b-d458be13b216",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -17,6 +127,6 @@
   "slug": "madagascar-de-fernando-perez-1994",
   "created_at": "2026-08-28T20:28:31.704Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:28:31.704Z",
+  "updated_at": "2026-08-28T20:35:18.975Z",
   "updated_by": "jackDeVry"
 }
