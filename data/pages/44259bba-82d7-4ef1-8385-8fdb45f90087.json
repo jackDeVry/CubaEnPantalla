@@ -4,6 +4,108 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Conducta",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 2014\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Ernesto Daranas\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Ministerio de Cultura, ICAIC, RTV Comercial y FAMCA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nChala es un niño de once años que vive en La Habana con su madre, quien enfrenta graves problemas personales, y entrena perros de pelea para ayudar a sostenerse económicamente. En la escuela encuentra apoyo en Carmela, una veterana maestra que comprende las difíciles circunstancias de sus estudiantes. Cuando las autoridades deciden enviar a Chala a una escuela de conducta, Carmela se enfrenta al sistema para defenderlo."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Conducta",
+          "italic": true
+        },
+        {
+          "text": " se convirtió en una de las películas cubanas de mayor impacto popular de la década de 2010. A través de la relación entre Chala y Carmela, Ernesto Daranas examina problemas vinculados con la educación, la pobreza, la marginalidad, la migración interna y el funcionamiento de las instituciones. Su combinación de crítica social y personajes profundamente humanos generó una amplia discusión dentro de Cuba sobre la distancia entre las normas institucionales y las complejas realidades de la vida cotidiana. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "32e58142-9238-4137-9dd1-745836fadbb7",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +119,6 @@
   "slug": "conducta-de-ernesto-daranas-2014",
   "created_at": "2026-08-28T20:29:25.677Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:29:25.677Z",
+  "updated_at": "2026-08-28T20:38:03.412Z",
   "updated_by": "jackDeVry"
 }
