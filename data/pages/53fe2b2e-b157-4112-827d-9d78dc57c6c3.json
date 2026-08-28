@@ -4,6 +4,107 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Suite Habana",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 2003\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Fernando Pérez\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " ICAIC y Wanda Visión"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Suite Habana",
+          "italic": true
+        },
+        {
+          "text": " sigue durante un día la vida cotidiana de distintos habitantes de La Habana. Sin recurrir prácticamente al diálogo, la película observa sus trabajos, rutinas, familias, dificultades y aspiraciones. Sus protagonistas no son actores profesionales, sino personas reales que recrean aspectos de sus propias vidas, construyendo colectivamente un retrato íntimo de la ciudad y de quienes la habitan."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\nSituada entre el documental y la ficción, "
+        },
+        {
+          "text": "Suite Habana",
+          "italic": true
+        },
+        {
+          "text": " es una de las obras más reconocidas del cine cubano del siglo XXI. Fernando Pérez se aleja de representaciones más estereotipadas de La Habana para construir un retrato contemplativo basado en los gestos cotidianos, el paisaje urbano, el silencio y el diseño sonoro. Su enfoque humanista y su experimentación con los límites entre realidad y representación consolidaron nuevas posibilidades para el documental cubano contemporáneo."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "0f5640ba-fa23-4ee0-9422-4deb95b26896",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +118,6 @@
   "slug": "suite-habana-de-fernando-perez-2003-2",
   "created_at": "2026-08-28T20:29:11.252Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:29:11.252Z",
+  "updated_at": "2026-08-28T20:37:37.347Z",
   "updated_by": "jackDeVry"
 }
