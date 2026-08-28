@@ -4,6 +4,100 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Adorables mentiras",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Año:",
+          "bold": true
+        },
+        {
+          "text": " 1991\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Gerardo Chijona\n"
+        },
+        {
+          "text": "Producción:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC) y Televisión Española (TVE)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nJorge Luis es un joven que sueña con convertirse en guionista y director de cine. Durante el estreno de una película conoce a Sissy, quien desea ser descubierta como actriz. Para impresionarla, Jorge Luis se presenta como un cineasta en busca de una intérprete no profesional, mientras Sissy construye su propia versión idealizada de sí misma. La relación entre ambos se desarrolla a partir de las identidades y fantasías que inventan para escapar de una realidad mucho menos atractiva."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importancia dentro de la historia del cine cubano:",
+          "bold": true
+        },
+        {
+          "text": "\nPrimer largometraje de ficción de Gerardo Chijona, "
+        },
+        {
+          "text": "Adorables mentiras",
+          "italic": true
+        },
+        {
+          "text": " utiliza la comedia, el romance y la sátira para explorar las aspiraciones, frustraciones y contradicciones de la sociedad cubana a comienzos de la década de 1990. Su interés por personajes que reinventan sus propias identidades refleja un cine cada vez más dispuesto a observar críticamente la vida cotidiana, las relaciones personales y las estrategias individuales para enfrentar un contexto social en transformación."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "uuid": "633c2612-923b-4c4b-8379-75a6c07ede8b",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +111,6 @@
   "slug": "adorables-mentiras-de-gerardo-chijona-1991",
   "created_at": "2026-08-28T20:27:44.594Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-28T20:27:44.594Z",
+  "updated_at": "2026-08-28T20:32:44.280Z",
   "updated_by": "jackDeVry"
 }
