@@ -1,0 +1,137 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Year:",
+          "bold": true
+        },
+        {
+          "text": " 1960\n"
+        },
+        {
+          "text": "Director:",
+          "bold": true
+        },
+        {
+          "text": " Tomás Gutiérrez Alea\n"
+        },
+        {
+          "text": "Production:",
+          "bold": true
+        },
+        {
+          "text": " Instituto Cubano del Arte e Industria Cinematográficos (ICAIC)\n"
+        },
+        {
+          "text": "Country:",
+          "bold": true
+        },
+        {
+          "text": " Cuba"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Synopsis:",
+          "bold": true
+        },
+        {
+          "text": "\nStructured in three episodes, “El herido,” “Rebeldes,” and “La batalla de Santa Clara,” "
+        },
+        {
+          "text": "Historias de la Revolución",
+          "italic": true
+        },
+        {
+          "text": " depicts different stages of the armed struggle against the dictatorship of Fulgencio Batista. Moving from clandestine resistance in Havana to guerrilla warfare in the Sierra Maestra and finally the revolutionary victory at Santa Clara, the film constructs an early cinematic account of the events leading to the triumph of the Cuban Revolution in 1959. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importance within Cuban cinema history:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Historias de la Revolución",
+          "italic": true
+        },
+        {
+          "text": " occupies a foundational place in post-1959 Cuban cinema as the first fiction feature produced by the newly created ICAIC. Released on December 30, 1960, it helped establish cinema as an important means through which the Revolution would represent and interpret its own recent history. The film also marked an early milestone for the emerging revolutionary film industry internationally, receiving a prize from the Union of Soviet Writers at the Moscow International Film Festival. It anticipates the central role that Gutiérrez Alea would play in the development of Cuban cinema, while also illustrating the close relationship between filmmaking, historical memory, and the revolutionary project during ICAIC's earliest years. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "4be8167e-55dc-4c75-b2d6-79860acba06a",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Historias de la Revolución de Tomás Gutiérrez Alea (1960) ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "historias-de-la-revolucion-de-tomas-gutierrez",
+  "created_at": "2026-08-28T19:06:22.293Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-28T19:06:22.293Z",
+  "updated_by": "jackDeVry"
+}
