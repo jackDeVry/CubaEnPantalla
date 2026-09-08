@@ -20,6 +20,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Una parte considerable de este cine circula en plataformas como YouTube, Vimeo o Facebook, muchas veces a través de copias subidas por usuarios particulares. En numerosos casos, estos materiales permanecen disponibles de manera temporal y pueden desaparecer por reclamos de derechos de autor, decisiones de las propias plataformas o simplemente porque quien los publicó decide retirarlos. Como resultado, enlaces que durante meses o años permiten acceder a una película pueden dejar de funcionar sin previo aviso."
         }
       ]
@@ -130,6 +138,6 @@
   "slug": "aviso-importante-acerca-del-contenido",
   "created_at": "2025-08-11T18:40:32.645Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-09-08T04:00:24.617Z",
+  "updated_at": "2026-09-08T14:22:39.757Z",
   "updated_by": "jackDeVry"
 }
