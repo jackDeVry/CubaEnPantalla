@@ -9,8 +9,105 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://endac.org/wp-content/uploads/2020/06/endac-h.jpg",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://endac.org/wp-content/uploads/2020/06/endac-h.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La Enciclopedia Digital del Audiovisual Cubano, ENDAC, constituye uno de los proyectos más importantes para la documentación, organización y preservación de la cultura audiovisual cubana. Creada por el crítico e investigador Juan Antonio García Borrero, la plataforma propone una concepción amplia del audiovisual cubano que desborda los límites del ICAIC, del territorio nacional y de una historia del cine construida únicamente a partir de sus obras más reconocidas. ENDAC reúne películas, cineastas, instituciones, festivales, publicaciones, espacios de exhibición, tecnologías y otros elementos que permiten reconstruir un ecosistema audiovisual mucho más complejo. Su valor reside precisamente en esa capacidad de conectar materiales dispersos y convertirlos en una red de conocimiento accesible, donde la historia del cine cubano puede entenderse a través de relaciones, trayectorias y contextos que difícilmente serían visibles en un archivo o catálogo tradicional."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ENDAC representa además un ejemplo especialmente sólido de la integración entre las humanidades y las herramientas digitales. La tecnología no sustituye aquí la investigación histórica, la crítica cinematográfica o el trabajo archivístico, sino que amplía sus posibilidades: permite organizar grandes cantidades de información, establecer conexiones entre materiales y facilitar nuevas formas de acceso y descubrimiento. En ese sentido, comparte varios de los principios que orientan "
+                },
+                {
+                  "text": "Cuba en Pantalla",
+                  "italic": true
+                },
+                {
+                  "text": ", especialmente la idea de que el acceso al cine cubano requiere algo más que poner películas a disposición del público. También exige contexto, mediación, organización y herramientas que permitan comprender las obras dentro de una historia cultural más amplia. Si ENDAC demuestra cómo las humanidades digitales pueden cartografiar y preservar la enorme complejidad del audiovisual cubano, "
+                },
+                {
+                  "text": "Cuba en Pantalla",
+                  "italic": true
+                },
+                {
+                  "text": " adopta una lógica relacionada desde una escala más curatorial y pedagógica, orientada a facilitar primeros encuentros con esa tradición cinematográfica."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -22,44 +119,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "La Enciclopedia Digital del Audiovisual Cubano, ENDAC, constituye uno de los proyectos más importantes para la documentación, organización y preservación de la cultura audiovisual cubana. Creada por el crítico e investigador Juan Antonio García Borrero, la plataforma propone una concepción amplia del audiovisual cubano que desborda los límites del ICAIC, del territorio nacional y de una historia del cine construida únicamente a partir de sus obras más reconocidas. ENDAC reúne películas, cineastas, instituciones, festivales, publicaciones, espacios de exhibición, tecnologías y otros elementos que permiten reconstruir un ecosistema audiovisual mucho más complejo. Su valor reside precisamente en esa capacidad de conectar materiales dispersos y convertirlos en una red de conocimiento accesible, donde la historia del cine cubano puede entenderse a través de relaciones, trayectorias y contextos que difícilmente serían visibles en un archivo o catálogo tradicional."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "ENDAC representa además un ejemplo especialmente sólido de la integración entre las humanidades y las herramientas digitales. La tecnología no sustituye aquí la investigación histórica, la crítica cinematográfica o el trabajo archivístico, sino que amplía sus posibilidades: permite organizar grandes cantidades de información, establecer conexiones entre materiales y facilitar nuevas formas de acceso y descubrimiento. En ese sentido, comparte varios de los principios que orientan "
-        },
-        {
-          "text": "Cuba en Pantalla",
-          "italic": true
-        },
-        {
-          "text": ", especialmente la idea de que el acceso al cine cubano requiere algo más que poner películas a disposición del público. También exige contexto, mediación, organización y herramientas que permitan comprender las obras dentro de una historia cultural más amplia. Si ENDAC demuestra cómo las humanidades digitales pueden cartografiar y preservar la enorme complejidad del audiovisual cubano, "
-        },
-        {
-          "text": "Cuba en Pantalla",
-          "italic": true
-        },
-        {
-          "text": " adopta una lógica relacionada desde una escala más curatorial y pedagógica, orientada a facilitar primeros encuentros con esa tradición cinematográfica."
         }
       ]
     },
@@ -89,6 +148,6 @@
   "slug": "enciclopedia-digital-del-audiovisual-cubano",
   "created_at": "2026-09-08T03:40:56.886Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-09-08T03:40:56.886Z",
+  "updated_at": "2026-09-08T03:44:20.936Z",
   "updated_by": "jackDeVry"
 }
