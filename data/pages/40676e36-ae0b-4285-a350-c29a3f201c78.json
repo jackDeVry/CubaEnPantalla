@@ -54,15 +54,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Este proyecto es una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. El cine cubano no es simplemente entretenimiento ni arte: es un archivo vivo de las tensiones, los sueños y las contradicciones de una nación que ha insistido, durante décadas, en narrar su propia existencia."
+                  "text": ""
                 }
               ]
             },
@@ -78,7 +70,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "La selección de películas está basada en el temario del \"Curso de Cine Cubano\" organizado por el ICAIC. Tomé este curso durante mi semestre en Cuba en el otoño del 2019. Fue dirigido por Lourdes Prieto, una de las documentaristas más importantes de la isla—alguien que no solo ha filmado Cuba, sino que la ha pensado desde adentro. Ese semestre me enseñó que ver cine cubano en Cuba es una experiencia radicalmente distinta: las películas no son objetos del pasado, sino conversaciones que siguen abiertas."
+                  "text": "Este proyecto propone una exploración de la historia, la identidad y los imaginarios sociales de Cuba a través de su cine. Más que una forma de entretenimiento o una expresión artística aislada, el cine cubano constituye un archivo vivo de las tensiones, aspiraciones y contradicciones que han atravesado la historia del país. Durante décadas, sus películas han participado activamente en la manera en que Cuba se representa, se cuestiona y construye relatos sobre sí misma. Acercarse al cine cubano, por lo tanto, ofrece también una manera de aproximarse a la complejidad histórica, política y cultural de la isla."
                 }
               ]
             },
@@ -94,7 +86,34 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "El proyecto está compilado con una mezcla de ensayos sobre el papel del cine dentro de la cultura y la política cubanas, la exhibición de varias películas, y una reflexión sobre la situación crítica que enfrenta hoy la conservación del cine cubano. Porque no basta con estudiar estas películas—también hay que preguntarse si van a sobrevivir."
+                  "text": "La selección de películas parte del temario del "
+                },
+                {
+                  "text": "Curso de Cine Cubano",
+                  "italic": true
+                },
+                {
+                  "text": ", organizado por el ICAIC, que cursé durante mi semestre de estudios en Cuba en el otoño de 2019. El curso fue dirigido por Lourdes Prieto, una de las documentalistas más importantes de la isla, cuya trayectoria no solo ha contribuido a registrar la realidad cubana, sino también a reflexionar críticamente sobre ella desde el cine. Aquella experiencia transformó mi manera de entender estas películas. Ver cine cubano en Cuba significaba encontrarse con obras que no pertenecían simplemente al pasado, sino que continuaban dialogando con los espacios, las historias y las personas que me rodeaban. Muchas de las preguntas planteadas por esas películas seguían, y siguen, abiertas."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cuba en Pantalla",
+                  "italic": true
+                },
+                {
+                  "text": " reúne películas, materiales audiovisuales, anotaciones y ensayos que examinan distintas dimensiones de la cultura y la historia cinematográfica cubanas. El proyecto también presta especial atención a la situación crítica que atraviesa actualmente la preservación del patrimonio audiovisual de la isla. Estudiar estas obras implica comprender lo que nos dicen sobre Cuba, pero también preguntarse por las condiciones materiales que determinan su supervivencia. Preservar, contextualizar y facilitar el acceso a estas películas resulta indispensable para que nuevas generaciones puedan seguir encontrándose con ellas y formulando nuevas preguntas sobre la historia que contienen."
                 }
               ]
             },
@@ -685,7 +704,7 @@
   "created_at": "2025-07-28T19:05:18.607Z",
   "created_by": "jackDeVry",
   "title": "Cuba en Pantalla",
-  "updated_at": "2026-09-08T03:52:46.735Z",
+  "updated_at": "2026-09-08T03:54:40.362Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
