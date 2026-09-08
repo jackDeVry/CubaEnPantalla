@@ -4,7 +4,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Con las películas cubanas, encontrar un lugar estable donde verlas es complicado. El acceso es volátil, cambiante, y muchas veces depende de pura suerte. Hoy una película está disponible, mañana puede desaparecer."
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Encontrar un espacio estable donde ver cine cubano sigue siendo complicado. El acceso es volátil, cambiante y, con frecuencia, depende de circunstancias difíciles de prever. Una película puede estar disponible hoy y desaparecer mañana, lo que convierte la búsqueda en una experiencia fragmentaria e irregular."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Una parte considerable de este cine circula en plataformas como YouTube, Vimeo o Facebook, muchas veces a través de copias subidas por usuarios particulares. En numerosos casos, estos materiales permanecen disponibles de manera temporal y pueden desaparecer por reclamos de derechos de autor, decisiones de las propias plataformas o simplemente porque quien los publicó decide retirarlos. Como resultado, enlaces que durante meses o años permiten acceder a una película pueden dejar de funcionar sin previo aviso."
         }
       ]
     },
@@ -20,7 +36,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Gran parte de este cine circula en plataformas como YouTube, Vimeo o incluso Facebook. Sin embargo, la mayoría de estos espacios no cuentan con licencias oficiales, y los usuarios que suben el contenido no tienen permiso para distribuirlo. Esto provoca que, tarde o temprano, los enlaces se caigan: los videos son borrados por las propias plataformas o por reclamos de derechos de autor."
+          "text": "Esta inestabilidad define, en buena medida, la experiencia de quien intenta adentrarse en el cine cubano. No basta con abrir una plataforma de streaming y encontrar un catálogo organizado, restaurado y disponible bajo demanda. El acceso suele exigir recorrer distintos rincones de internet, seguir enlaces, consultar archivos digitales y depender de copias cuya calidad, procedencia y permanencia varían enormemente. Encontrar una película puede convertirse así en una forma de investigación por sí misma."
         }
       ]
     },
@@ -36,30 +52,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Esta es la realidad para quien intenta adentrarse en el cine cubano: no basta con encender Netflix o Hulu y poner una película en 4K. En lugar de eso, hay que recorrer las grietas de internet, saltando de link en link, con la esperanza de encontrar una copia que funcione."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "En Cuba, una de las principales formas de acceder a películas—incluyendo cine nacional—es el "
+          "text": "Dentro de Cuba, una de las principales vías informales de circulación audiovisual ha sido el "
         },
         {
           "text": "paquete semanal",
           "italic": true
         },
         {
-          "text": ": una colección masiva de contenido digital que circula de manera informal en discos duros y memorias USB. Aunque suele centrarse en series, películas extranjeras y material de entretenimiento, en ocasiones incluye cine cubano, especialmente si hay demanda puntual o algún estreno reciente. Sin embargo, esta distribución no está institucionalizada y depende completamente de redes informales y del interés del momento."
+          "text": ", una enorme colección de contenidos digitales que se distribuye principalmente mediante discos duros y memorias USB. Aunque gran parte de su contenido está compuesto por series, películas extranjeras, música y otros productos de entretenimiento, también puede incluir cine cubano, especialmente cuando existe una demanda concreta o circula alguna producción reciente. Su funcionamiento, sin embargo, depende de redes informales de distribución y de decisiones que cambian de una semana a otra, por lo que tampoco constituye un archivo estable o permanente."
         }
       ]
     },
@@ -75,7 +75,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Y, aun así, esto solo suele ser posible con las películas más conocidas. Para las menos vistas, las más escondidas, la opción más segura sigue siendo ir a Cuba y conseguirlas directamente, muchas veces en un Pen Drive, de mano en mano, como parte de un intercambio más cercano al trueque que al streaming."
+          "text": "Incluso estas formas de circulación favorecen, por lo general, a las películas más conocidas o solicitadas. Para obras menos difundidas, antiguas, independientes o simplemente ausentes de los circuitos digitales más visibles, el acceso puede resultar todavía más difícil. En muchos casos, las películas continúan circulando de manera directa entre personas, copiadas en una memoria USB o un disco duro y transmitidas de mano en mano. Esta forma de intercambio revela una paradoja central del cine cubano contemporáneo: existe una producción audiovisual extraordinariamente rica, pero acceder a buena parte de ella todavía depende de redes personales, copias informales y una considerable dosis de persistencia."
         }
       ]
     },
@@ -83,14 +83,29 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "\n"
         }
       ]
     },
     {
       "type": "image",
-      "url": "https://i.cbc.ca/1.3527565.1460143715!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/getty-cuba-paquete.jpg?im=Resize%3D780",
-      "caption": "(CBC)",
+      "url": "https://work.deaccession.org/wp-content/uploads/2015/02/SantiagodeCuba.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -115,6 +130,6 @@
   "slug": "aviso-importante-acerca-del-contenido",
   "created_at": "2025-08-11T18:40:32.645Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-03-27T02:43:17.475Z",
+  "updated_at": "2026-09-08T04:00:24.617Z",
   "updated_by": "jackDeVry"
 }
