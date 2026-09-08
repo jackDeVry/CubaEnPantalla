@@ -289,15 +289,6 @@
       ]
     },
     {
-      "type": "image",
-      "url": "http://en.granma.cu/file/img/2024/03/medium/f0038077.jpg",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -370,7 +361,7 @@
   "slug": "el-cine-dentro-de-cuba",
   "created_at": "2025-07-30T16:11:42.716Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-09-08T04:04:44.572Z",
+  "updated_at": "2026-09-08T04:09:18.260Z",
   "updated_by": "jackDeVry",
   "parent": "40676e36-ae0b-4285-a350-c29a3f201c78"
 }
